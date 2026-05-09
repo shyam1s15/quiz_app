@@ -43,3 +43,29 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# ── SECRETS — Never commit these ──────────────────────────────────────────
+# Android signing
+android/key.properties
+android/app/*.jks
+android/app/*.keystore
+*.jks
+*.keystore
+
+# Google service account keys (Play Store MCP, Firebase admin, etc.)
+AI/*.json
+!AI/science_data.json
+!AI/history_quiz_200.json
+!AI/geography.json
+!AI/current_affairs.json
+!AI/sports_data.json
+*service-account*.json
+*-credentials.json
+*-key.json
+google-services-admin.json
+
+# Environment / local secrets
+.env
+.env.local
+secrets.dart
+secrets.json
