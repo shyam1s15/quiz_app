@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 801,
+    "category": "Sports",
+    "question": "Who holds the record for the most centuries in international cricket as of 2024?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "Ricky Ponting", "Kumar Sangakkara"],
+    "correctIndex": 1
+  },
+  {
+    "id": 802,
+    "category": "Sports",
+    "question": "Which country won the FIFA World Cup in 2022?",
+    "options": ["France", "Brazil", "Argentina", "Germany"],
+    "correctIndex": 2
+  },
+  {
+    "id": 803,
+    "category": "Sports",
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": ["Paris", "Athens", "London", "Rome"],
+    "correctIndex": 1
+  },
+  {
+    "id": 804,
+    "category": "Sports",
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": ["Saina Nehwal", "P.V. Sindhu", "Karnam Malleswari", "Mary Kom"],
+    "correctIndex": 2
+  },
+  {
+    "id": 805,
+    "category": "Sports",
+    "question": "How many squares are there on a standard chessboard?",
+    "options": ["32", "64", "81", "100"],
+    "correctIndex": 1
+  },
+  {
+    "id": 806,
+    "category": "Sports",
+    "question": "Which player has won the most Ballon d'Or awards in football history?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Zinedine Zidane", "Luka Modric"],
+    "correctIndex": 1
+  },
+  {
+    "id": 807,
+    "category": "Sports",
+    "question": "Who is known as the 'Flying Sikh' of India?",
+    "options": ["Milkha Singh", "P.T. Usha", "Abhinav Bindra", "Neeraj Chopra"],
+    "correctIndex": 0
+  },
+  {
+    "id": 808,
+    "category": "Sports",
+    "question": "Which team won the first ever IPL season in 2008?",
+    "options": ["Chennai Super Kings", "Mumbai Indians", "Rajasthan Royals", "Deccan Chargers"],
+    "correctIndex": 2
+  },
+  {
+    "id": 809,
+    "category": "Sports",
+    "question": "In Badminton, what is the score required to win a standard game set?",
+    "options": ["15", "21", "25", "30"],
+    "correctIndex": 1
+  },
+  {
+    "id": 810,
+    "category": "Sports",
+    "question": "Who is the youngest Grandmaster in Chess history?",
+    "options": ["Sergey Karjakin", "Magnus Carlsen", "Abhimanyu Mishra", "Gukesh D"],
+    "correctIndex": 2
+  },
+  {
+    "id": 811,
+    "category": "Sports",
+    "question": "Which cricketer is nicknamed 'Mr. 360'?",
+    "options": ["Glenn Maxwell", "AB de Villiers", "Jos Buttler", "Suryakumar Yadav"],
+    "correctIndex": 1
+  },
+  {
+    "id": 812,
+    "category": "Sports",
+    "question": "The Thomas Cup is associated with which sport?",
+    "options": ["Table Tennis", "Badminton", "Lawn Tennis", "Golf"],
+    "correctIndex": 1
+  },
+  {
+    "id": 813,
+    "category": "Sports",
+    "question": "Who holds the world record for the 100m sprint?",
+    "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Justin Gatlin"],
+    "correctIndex": 2
+  },
+  {
+    "id": 814,
+    "category": "Sports",
+    "question": "Which Indian athlete won the first ever individual Olympic Gold for India?",
+    "options": ["Neeraj Chopra", "Abhinav Bindra", "Leander Paes", "Rajyavardhan Singh Rathore"],
+    "correctIndex": 1
+  },
+  {
+    "id": 815,
+    "category": "Sports",
+    "question": "Which stadium is known as the 'Mecca of Cricket'?",
+    "options": ["Eden Gardens", "Melbourne Cricket Ground", "Lord's", "The Oval"],
+    "correctIndex": 2
+  },
+  {
+    "id": 816,
+    "category": "Sports",
+    "question": "How many minutes is a standard football match (excluding stoppage time)?",
+    "options": ["45", "60", "90", "120"],
+    "correctIndex": 2
+  },
+  {
+    "id": 817,
+    "category": "Sports",
+    "question": "Which IPL team has won the most titles as of the end of 2023?",
+    "options": ["Mumbai Indians", "Chennai Super Kings", "Both A & B", "Kolkata Knight Riders"],
+    "correctIndex": 2
+  },
+  {
+    "id": 818,
+    "category": "Sports",
+    "question": "What is the distance of a full Marathon?",
+    "options": ["21.09 km", "42.195 km", "50 km", "35 km"],
+    "correctIndex": 1
+  },
+  {
+    "id": 819,
+    "category": "Sports",
+    "question": "Viswanathan Anand became India's first Grandmaster in which year?",
+    "options": ["1983", "1988", "1991", "1995"],
+    "correctIndex": 1
+  },
+  {
+    "id": 820,
+    "category": "Sports",
+    "question": "Which sport uses the term 'Birdie' and 'Eagle'?",
+    "options": ["Golf", "Badminton", "Archery", "Shooting"],
+    "correctIndex": 0
+  },
+  {
+    "id": 821,
+    "category": "Sports",
+    "question": "Who won the Purple Cap in IPL 2023?",
+    "options": ["Mohammed Shami", "Rashid Khan", "Yuzvendra Chahal", "Mohit Sharma"],
+    "correctIndex": 0
+  },
+  {
+    "id": 822,
+    "category": "Sports",
+    "question": "In which sport did Neeraj Chopra win an Olympic Gold medal?",
+    "options": ["Discus Throw", "Shot Put", "Javelin Throw", "Long Jump"],
+    "correctIndex": 2
+  },
+  {
+    "id": 823,
+    "category": "Sports",
+    "question": "The 'Durand Cup' is associated with which sport?",
+    "options": ["Cricket", "Football", "Hockey", "Tennis"],
+    "correctIndex": 1
+  },
+  {
+    "id": 824,
+    "category": "Sports",
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Italy", "Argentina", "Brazil"],
+    "correctIndex": 3
+  },
+  {
+    "id": 825,
+    "category": "Sports",
+    "question": "What is the maximum possible break in a standard game of Snooker?",
+    "options": ["147", "155", "140", "160"],
+    "correctIndex": 0
+  },
+  {
+    "id": 826,
+    "category": "Sports",
+    "question": "Who was the first Indian to win a Grand Slam title in Tennis?",
+    "options": ["Leander Paes", "Mahesh Bhupathi", "Sania Mirza", "Rohan Bopanna"],
+    "correctIndex": 1
+  },
+  {
+    "id": 827,
+    "category": "Sports",
+    "question": "The term 'Checkmate' is used in which game?",
+    "options": ["Bridge", "Chess", "Ludo", "Scrabble"],
+    "correctIndex": 1
+  },
+  {
+    "id": 828,
+    "category": "Sports",
+    "question": "Who is the first cricketer to hit six sixes in an over in a T20 International?",
+    "options": ["Herschelle Gibbs", "Chris Gayle", "Yuvraj Singh", "Kieron Pollard"],
+    "correctIndex": 2
+  },
+  {
+    "id": 829,
+    "category": "Sports",
+    "question": "In which year did India win its first Cricket World Cup?",
+    "options": ["1975", "1979", "1983", "2011"],
+    "correctIndex": 2
+  },
+  {
+    "id": 830,
+    "category": "Sports",
+    "question": "P.V. Sindhu won which medal at the 2016 Rio Olympics?",
+    "options": ["Gold", "Silver", "Bronze", "No medal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 831,
+    "category": "Sports",
+    "question": "Which football club does Cristiano Ronaldo play for as of early 2024?",
+    "options": ["Real Madrid", "Manchester United", "Al Nassr", "Inter Miami"],
+    "correctIndex": 2
+  },
+  {
+    "id": 832,
+    "category": "Sports",
+    "question": "What is the standard length of a Cricket pitch?",
+    "options": ["20 yards", "22 yards", "24 yards", "18 yards"],
+    "correctIndex": 1
+  },
+  {
+    "id": 833,
+    "category": "Sports",
+    "question": "Who is the only player to have scored a double century in a Ranji Trophy final?",
+    "options": ["Wasim Jaffer", "Gundappa Viswanath", "Sachin Tendulkar", "Shubman Gill"],
+    "correctIndex": 1
+  },
+  {
+    "id": 834,
+    "category": "Sports",
+    "question": "Which country hosted the 2024 Summer Olympics?",
+    "options": ["USA", "Japan", "France", "China"],
+    "correctIndex": 2
+  },
+  {
+    "id": 835,
+    "category": "Sports",
+    "question": "In Chess, which piece can only move diagonally?",
+    "options": ["Rook", "Knight", "Bishop", "Pawn"],
+    "correctIndex": 2
+  },
+  {
+    "id": 836,
+    "category": "Sports",
+    "question": "Who was the Captain of the Indian Cricket team when they won the 2011 World Cup?",
+    "options": ["Sourav Ganguly", "Virat Kohli", "MS Dhoni", "Kapil Dev"],
+    "correctIndex": 2
+  },
+  {
+    "id": 837,
+    "category": "Sports",
+    "question": "What does the 'LBW' stand for in Cricket?",
+    "options": ["Leg Before Wicket", "Long Ball Wide", "Lower Body Weight", "Left Boundary Wing"],
+    "correctIndex": 0
+  },
+  {
+    "id": 838,
+    "category": "Sports",
+    "question": "Which country started the IPL?",
+    "options": ["Australia", "England", "India", "South Africa"],
+    "correctIndex": 2
+  },
+  {
+    "id": 839,
+    "category": "Sports",
+    "question": "Who is the first athlete to win three consecutive Olympic gold medals in both 100m and 200m?",
+    "options": ["Carl Lewis", "Usain Bolt", "Michael Johnson", "Florence Griffith-Joyner"],
+    "correctIndex": 1
+  },
+  {
+    "id": 840,
+    "category": "Sports",
+    "question": "In Badminton, the Uber Cup is the world championship for?",
+    "options": ["Men", "Women", "Juniors", "Mixed Doubles"],
+    "correctIndex": 1
+  },
+  {
+    "id": 841,
+    "category": "Sports",
+    "question": "Who won the Orange Cap in IPL 2023?",
+    "options": ["Virat Kohli", "Shubman Gill", "Faf du Plessis", "Yashasvi Jaiswal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 842,
+    "category": "Sports",
+    "question": "How many players are on the field for one team in a football match?",
+    "options": ["10", "11", "12", "9"],
+    "correctIndex": 1
+  },
+  {
+    "id": 843,
+    "category": "Sports",
+    "question": "Which piece in Chess is considered the most powerful?",
+    "options": ["King", "Queen", "Rook", "Knight"],
+    "correctIndex": 1
+  },
+  {
+    "id": 844,
+    "category": "Sports",
+    "question": "Who is the first Indian gymnast to compete in the Olympics?",
+    "options": ["Dipa Karmakar", "Aruna Reddy", "Deepa Malik", "Sakshi Malik"],
+    "correctIndex": 0
+  },
+  {
+    "id": 845,
+    "category": "Sports",
+    "question": "Which grand slam is played on a clay court?",
+    "options": ["Wimbledon", "US Open", "French Open", "Australian Open"],
+    "correctIndex": 2
+  },
+  {
+    "id": 846,
+    "category": "Sports",
+    "question": "Who holds the record for most goals in international football?",
+    "options": ["Pele", "Lionel Messi", "Cristiano Ronaldo", "Ali Daei"],
+    "correctIndex": 2
+  },
+  {
+    "id": 847,
+    "category": "Sports",
+    "question": "In Cricket, what is a 'Duck'?",
+    "options": ["A type of ball", "Scoring zero runs", "A fielding position", "Hitting a six"],
+    "correctIndex": 1
+  },
+  {
+    "id": 848,
+    "category": "Sports",
+    "question": "Which country has won the most gold medals in Olympic history?",
+    "options": ["China", "Russia", "USA", "Great Britain"],
+    "correctIndex": 2
+  },
+  {
+    "id": 849,
+    "category": "Sports",
+    "question": "What is the nickname of the Indian Women's National Hockey team?",
+    "options": ["Blue Tigers", "Golden Girls", "Nabh Kapali", "Nabhvarna"],
+    "correctIndex": 3
+  },
+  {
+    "id": 850,
+    "category": "Sports",
+    "question": "In which sport is the 'Davis Cup' awarded?",
+    "options": ["Golf", "Tennis", "Cricket", "Badminton"],
+    "correctIndex": 1
+  },
+  {
+    "id": 851,
+    "category": "Sports",
+    "question": "Which Indian cricketer is known as the 'Wall'?",
+    "options": ["VVS Laxman", "Rahul Dravid", "Cheteshwar Pujara", "Ajinkya Rahane"],
+    "correctIndex": 1
+  },
+  {
+    "id": 852,
+    "category": "Sports",
+    "question": "Who is the first Indian to win the All England Open Badminton Championships?",
+    "options": ["Pullela Gopichand", "Prakash Padukone", "Kidambi Srikanth", "Lakshya Sen"],
+    "correctIndex": 1
+  },
+  {
+    "id": 853,
+    "category": "Sports",
+    "question": "How many overs are bowled in a T20 match per innings?",
+    "options": ["50", "20", "10", "100"],
+    "correctIndex": 1
+  },
+  {
+    "id": 854,
+    "category": "Sports",
+    "question": "Which color jersey does the leader of the general classification wear in the Tour de France?",
+    "options": ["Red", "Green", "Yellow", "White"],
+    "correctIndex": 2
+  },
+  {
+    "id": 855,
+    "category": "Sports",
+    "question": "The term 'Stalemate' is associated with which sport?",
+    "options": ["Boxing", "Chess", "Wrestling", "Fencing"],
+    "correctIndex": 1
+  },
+  {
+    "id": 856,
+    "category": "Sports",
+    "question": "Which IPL team is owned by Shah Rukh Khan?",
+    "options": ["Delhi Capitals", "Kolkata Knight Riders", "Punjab Kings", "Sunrisers Hyderabad"],
+    "correctIndex": 1
+  },
+  {
+    "id": 857,
+    "category": "Sports",
+    "question": "Who won the first ever FIFA World Cup in 1930?",
+    "options": ["Argentina", "Uruguay", "Brazil", "Italy"],
+    "correctIndex": 1
+  },
+  {
+    "id": 858,
+    "category": "Sports",
+    "question": "Which Indian shooter won a silver medal at the 2004 Athens Olympics?",
+    "options": ["Abhinav Bindra", "Rajyavardhan Singh Rathore", "Gagan Narang", "Vijay Kumar"],
+    "correctIndex": 1
+  },
+  {
+    "id": 859,
+    "category": "Sports",
+    "question": "In Football, what color card is shown by the referee to send a player off?",
+    "options": ["Yellow", "Green", "Red", "Blue"],
+    "correctIndex": 2
+  },
+  {
+    "id": 860,
+    "category": "Sports",
+    "question": "Who is the current World Chess Champion (as of Jan 2024)?",
+    "options": ["Magnus Carlsen", "Ding Liren", "Ian Nepomniachtchi", "Fabiano Caruana"],
+    "correctIndex": 1
+  },
+  {
+    "id": 861,
+    "category": "Sports",
+    "question": "Which city is the headquarters of the International Olympic Committee (IOC)?",
+    "options": ["Zurich", "Lausanne", "Geneva", "Paris"],
+    "correctIndex": 1
+  },
+  {
+    "id": 862,
+    "category": "Sports",
+    "question": "Who has the most wickets in IPL history?",
+    "options": ["Lasith Malinga", "Amit Mishra", "Yuzvendra Chahal", "Dwayne Bravo"],
+    "correctIndex": 2
+  },
+  {
+    "id": 863,
+    "category": "Sports",
+    "question": "The 'Ryder Cup' is a trophy in which sport?",
+    "options": ["Polo", "Golf", "Yachting", "Horse Racing"],
+    "correctIndex": 1
+  },
+  {
+    "id": 864,
+    "category": "Sports",
+    "question": "How many times has India won the Hockey World Cup (Men's)?",
+    "options": ["0", "1", "2", "8"],
+    "correctIndex": 1
+  },
+  {
+    "id": 865,
+    "category": "Sports",
+    "question": "What is the maximum number of players allowed in a squad for a FIFA World Cup team?",
+    "options": ["23", "26", "22", "25"],
+    "correctIndex": 1
+  },
+  {
+    "id": 866,
+    "category": "Sports",
+    "question": "Who was the first Indian to win an individual medal at the Olympics after independence?",
+    "options": ["Milkha Singh", "K.D. Jadhav", "Norman Pritchard", "Leander Paes"],
+    "correctIndex": 1
+  },
+  {
+    "id": 867,
+    "category": "Sports",
+    "question": "In Cricket, what do you call a ball that the batsman cannot reach and is wide of the crease?",
+    "options": ["No ball", "Dead ball", "Wide ball", "Bouncer"],
+    "correctIndex": 2
+  },
+  {
+    "id": 868,
+    "category": "Sports",
+    "question": "Who is the 'King of Clay' in Tennis?",
+    "options": ["Roger Federer", "Novak Djokovic", "Rafael Nadal", "Bjorn Borg"],
+    "correctIndex": 2
+  },
+  {
+    "id": 869,
+    "category": "Sports",
+    "question": "Which team does MS Dhoni represent in the IPL?",
+    "options": ["Mumbai Indians", "Royal Challengers Bangalore", "Chennai Super Kings", "Gujarat Titans"],
+    "correctIndex": 2
+  },
+  {
+    "id": 870,
+    "category": "Sports",
+    "question": "What is the distance between the two sets of wickets in Cricket?",
+    "options": ["20 yards", "22 yards", "24 yards", "21 yards"],
+    "correctIndex": 1
+  },
+  {
+    "id": 871,
+    "category": "Sports",
+    "question": "Who won the first ever Chess World Championship held in 1886?",
+    "options": ["Emanuel Lasker", "Wilhelm Steinitz", "Paul Morphy", "Jose Capablanca"],
+    "correctIndex": 1
+  },
+  {
+    "id": 872,
+    "category": "Sports",
+    "question": "Which Indian won a silver medal in Weightlifting at the Tokyo Olympics?",
+    "options": ["Saikhom Mirabai Chanu", "Lovlina Borgohain", "P.V. Sindhu", "Ravi Kumar Dahiya"],
+    "correctIndex": 0
+  },
+  {
+    "id": 873,
+    "category": "Sports",
+    "question": "In which sport would you perform a 'Slam Dunk'?",
+    "options": ["Volleyball", "Basketball", "Handball", "Tennis"],
+    "correctIndex": 1
+  },
+  {
+    "id": 874,
+    "category": "Sports",
+    "question": "How many rings are there in the Olympic logo?",
+    "options": ["4", "5", "6", "3"],
+    "correctIndex": 1
+  },
+  {
+    "id": 875,
+    "category": "Sports",
+    "question": "Who is the fastest man to run 200m?",
+    "options": ["Yohan Blake", "Michael Johnson", "Usain Bolt", "Tyson Gay"],
+    "correctIndex": 2
+  },
+  {
+    "id": 876,
+    "category": "Sports",
+    "question": "Which IPL team has the slogan 'Halla Bol'?",
+    "options": ["Rajasthan Royals", "Delhi Capitals", "Gujarat Titans", "Lucknow Super Giants"],
+    "correctIndex": 0
+  },
+  {
+    "id": 877,
+    "category": "Sports",
+    "question": "In Badminton, what is the weight of a standard shuttlecock approximately?",
+    "options": ["2.5 to 3.2 grams", "4.74 to 5.50 grams", "7.1 to 8.5 grams", "10 to 12 grams"],
+    "correctIndex": 1
+  },
+  {
+    "id": 878,
+    "category": "Sports",
+    "question": "Who was the first Indian captain to lead India to a Test series win in England?",
+    "options": ["Ajit Wadekar", "Kapil Dev", "Mansoor Ali Khan Pataudi", "Sourav Ganguly"],
+    "correctIndex": 0
+  },
+  {
+    "id": 879,
+    "category": "Sports",
+    "question": "Which country has won the most Olympic medals in Badminton?",
+    "options": ["Indonesia", "China", "South Korea", "Denmark"],
+    "correctIndex": 1
+  },
+  {
+    "id": 880,
+    "category": "Sports",
+    "question": "What is the duration of a professional boxing round (Men)?",
+    "options": ["2 minutes", "3 minutes", "4 minutes", "5 minutes"],
+    "correctIndex": 1
+  },
+  {
+    "id": 881,
+    "category": "Sports",
+    "question": "Which year did the IPL start?",
+    "options": ["2007", "2008", "2009", "2010"],
+    "correctIndex": 1
+  },
+  {
+    "id": 882,
+    "category": "Sports",
+    "question": "In Cricket, 'Chinaman' is a term used for?",
+    "options": ["A type of bat", "A left-arm unorthodox spin bowler", "A fielding position", "A style of captaincy"],
+    "correctIndex": 1
+  },
+  {
+    "id": 883,
+    "category": "Sports",
+    "question": "Who is the first Indian fencer to qualify for the Olympics?",
+    "options": ["C.A. Bhavani Devi", "Ankita Raina", "Manika Batra", "Aditi Ashok"],
+    "correctIndex": 0
+  },
+  {
+    "id": 884,
+    "category": "Sports",
+    "question": "Which player scored the famous 'Hand of God' goal?",
+    "options": ["Pele", "Diego Maradona", "Zico", "Johan Cruyff"],
+    "correctIndex": 1
+  },
+  {
+    "id": 885,
+    "category": "Sports",
+    "question": "In Chess, if the King is under attack and cannot escape, it is called?",
+    "options": ["Stalemate", "Check", "Checkmate", "Castling"],
+    "correctIndex": 2
+  },
+  {
+    "id": 886,
+    "category": "Sports",
+    "question": "Which Indian city hosted the first Asian Games in 1951?",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+    "correctIndex": 2
+  },
+  {
+    "id": 887,
+    "category": "Sports",
+    "question": "Who is the all-time leading goal scorer for the Indian national football team?",
+    "options": ["Baichung Bhutia", "Sunil Chhetri", "I.M. Vijayan", "Gurpreet Singh Sandhu"],
+    "correctIndex": 1
+  },
+  {
+    "id": 888,
+    "category": "Sports",
+    "question": "Which country won the ICC Men's T20 World Cup in 2022?",
+    "options": ["Pakistan", "England", "India", "Australia"],
+    "correctIndex": 1
+  },
+  {
+    "id": 889,
+    "category": "Sports",
+    "question": "In which sport is the 'Sultan Azlan Shah Cup' played?",
+    "options": ["Cricket", "Football", "Hockey", "Golf"],
+    "correctIndex": 2
+  },
+  {
+    "id": 890,
+    "category": "Sports",
+    "question": "Who is the first Indian female wrestler to win an Olympic medal?",
+    "options": ["Vinesh Phogat", "Sakshi Malik", "Babita Kumari", "Geeta Phogat"],
+    "correctIndex": 1
+  },
+  {
+    "id": 891,
+    "category": "Sports",
+    "question": "How many grand slam titles has Serena Williams won (Singles)?",
+    "options": ["20", "22", "23", "24"],
+    "correctIndex": 2
+  },
+  {
+    "id": 892,
+    "category": "Sports",
+    "question": "Which venue hosted the final of the 2023 Cricket World Cup?",
+    "options": ["Wankhede Stadium", "Narendra Modi Stadium", "Eden Gardens", "M. Chinnaswamy Stadium"],
+    "correctIndex": 1
+  },
+  {
+    "id": 893,
+    "category": "Sports",
+    "question": "In Chess, how many pawns does each player start with?",
+    "options": ["6", "8", "10", "12"],
+    "correctIndex": 1
+  },
+  {
+    "id": 894,
+    "category": "Sports",
+    "question": "Who is the first Indian to score a triple century in Test cricket?",
+    "options": ["Sachin Tendulkar", "Virender Sehwag", "Karun Nair", "Sunil Gavaskar"],
+    "correctIndex": 1
+  },
+  {
+    "id": 895,
+    "category": "Sports",
+    "question": "Which animal is the symbol of the mascot for the 2022 FIFA World Cup?",
+    "options": ["Lion", "Armadillo", "Keffiyeh (La'eeb)", "Tiger"],
+    "correctIndex": 2
+  },
+  {
+    "id": 896,
+    "category": "Sports",
+    "question": "The term 'Bully' is used in which sport?",
+    "options": ["Football", "Hockey", "Rugby", "Golf"],
+    "correctIndex": 1
+  },
+  {
+    "id": 897,
+    "category": "Sports",
+    "question": "Who was the first Indian to win a gold medal at the World Athletics Championships?",
+    "options": ["Anju Bobby George", "Neeraj Chopra", "Hima Das", "Milkha Singh"],
+    "correctIndex": 1
+  },
+  {
+    "id": 898,
+    "category": "Sports",
+    "question": "Which IPL team has won 5 titles but never finished first in the points table (until 2023)?",
+    "options": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "None"],
+    "correctIndex": 0
+  },
+  {
+    "id": 899,
+    "category": "Sports",
+    "question": "In Badminton, which part of the body is not allowed to touch the net?",
+    "options": ["Racket", "Body", "Both A & B", "Hand"],
+    "correctIndex": 2
+  },
+  {
+    "id": 900,
+    "category": "Sports",
+    "question": "Who holds the record for most Olympic gold medals in total?",
+    "options": ["Usain Bolt", "Michael Phelps", "Larisa Latynina", "Mark Spitz"],
+    "correctIndex": 1
+  },
+  {
+    "id": 901,
+    "category": "Sports",
+    "question": "Which country won the first ICC World Test Championship in 2021?",
+    "options": ["India", "Australia", "New Zealand", "England"],
+    "correctIndex": 2
+  },
+  {
+    "id": 902,
+    "category": "Sports",
+    "question": "In Chess, what is the value usually assigned to a Rook?",
+    "options": ["1", "3", "5", "9"],
+    "correctIndex": 2
+  },
+  {
+    "id": 903,
+    "category": "Sports",
+    "question": "Which player is known as 'The Little Master' in Cricket?",
+    "options": ["Sachin Tendulkar", "Sunil Gavaskar", "Both A & B", "Virat Kohli"],
+    "correctIndex": 2
+  },
+  {
+    "id": 904,
+    "category": "Sports",
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["AC Milan", "Liverpool", "Real Madrid", "Bayern Munich"],
+    "correctIndex": 2
+  },
+  {
+    "id": 905,
+    "category": "Sports",
+    "question": "Who is the first Indian to reach the finals of the World Junior Chess Championship?",
+    "options": ["Viswanathan Anand", "Pentala Harikrishna", "Praggnanandhaa", "Vidit Gujrathi"],
+    "correctIndex": 0
+  },
+  {
+    "id": 906,
+    "category": "Sports",
+    "question": "In which sport is the 'Uber Cup' contested by women?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "correctIndex": 1
+  },
+  {
+    "id": 907,
+    "category": "Sports",
+    "question": "Who is the only Indian to win two individual Olympic medals?",
+    "options": ["Sushil Kumar", "P.V. Sindhu", "Both A & B", "Manu Bhaker"],
+    "correctIndex": 2
+  },
+  {
+    "id": 908,
+    "category": "Sports",
+    "question": "Which cricketer has the highest individual score in an ODI match?",
+    "options": ["Chris Gayle", "Martin Guptill", "Rohit Sharma", "Virender Sehwag"],
+    "correctIndex": 2
+  },
+  {
+    "id": 909,
+    "category": "Sports",
+    "question": "The term 'Free Throw' is associated with which sport?",
+    "options": ["Football", "Basketball", "Handball", "Water Polo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 910,
+    "category": "Sports",
+    "question": "Which country will host the 2026 FIFA World Cup?",
+    "options": ["USA", "Mexico", "Canada", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "id": 911,
+    "category": "Sports",
+    "question": "Who won the first ever individual Olympic gold medal for India in 2008?",
+    "options": ["Rajyavardhan Singh Rathore", "Abhinav Bindra", "Sushil Kumar", "Vijender Singh"],
+    "correctIndex": 1
+  },
+  {
+    "id": 912,
+    "category": "Sports",
+    "question": "In Chess, a 'Fianchetto' refers to the development of which piece?",
+    "options": ["Knight", "Rook", "Bishop", "Queen"],
+    "correctIndex": 2
+  },
+  {
+    "id": 913,
+    "category": "Sports",
+    "question": "Which player is known as 'Punter'?",
+    "options": ["Shane Warne", "Ricky Ponting", "Adam Gilchrist", "Glenn McGrath"],
+    "correctIndex": 1
+  },
+  {
+    "id": 914,
+    "category": "Sports",
+    "question": "In Badminton, what is the maximum number of points a game can go up to in case of a tie?",
+    "options": ["21", "25", "30", "29"],
+    "correctIndex": 2
+  },
+  {
+    "id": 915,
+    "category": "Sports",
+    "question": "Who holds the record for most goals in a single FIFA World Cup tournament?",
+    "options": ["Just Fontaine", "Gerd Muller", "Pele", "Ronaldo (Brazil)"],
+    "correctIndex": 0
+  },
+  {
+    "id": 916,
+    "category": "Sports",
+    "question": "Which Indian city is home to the world's largest cricket stadium?",
+    "options": ["Melbourne", "Ahmedabad", "Kolkata", "Mumbai"],
+    "correctIndex": 1
+  },
+  {
+    "id": 917,
+    "category": "Sports",
+    "question": "Which piece in Chess is the only one that can jump over other pieces?",
+    "options": ["Rook", "Knight", "Bishop", "Pawn"],
+    "correctIndex": 1
+  },
+  {
+    "id": 918,
+    "category": "Sports",
+    "question": "Who was the first woman to win a Nobel Prize and is also mentioned in sports trivia for her interest in physical activity?",
+    "options": ["Marie Curie", "Mother Teresa", "Indira Gandhi", "Malala Yousafzai"],
+    "correctIndex": 0
+  },
+  {
+    "id": 919,
+    "category": "Sports",
+    "question": "Which sport is played at 'Flushing Meadows'?",
+    "options": ["Wimbledon", "US Open", "Australian Open", "French Open"],
+    "correctIndex": 1
+  },
+  {
+    "id": 920,
+    "category": "Sports",
+    "question": "Who was the captain of the Indian team that won the 1975 Hockey World Cup?",
+    "options": ["Dhyan Chand", "Ajit Pal Singh", "Dhanraj Pillay", "Manpreet Singh"],
+    "correctIndex": 1
+  },
+  {
+    "id": 921,
+    "category": "Sports",
+    "question": "Which country won the most medals in the 2020 Tokyo Olympics?",
+    "options": ["China", "Japan", "USA", "Great Britain"],
+    "correctIndex": 2
+  },
+  {
+    "id": 922,
+    "category": "Sports",
+    "question": "The 'Bledisloe Cup' is contested between which two countries in Rugby?",
+    "options": ["England and Wales", "Australia and New Zealand", "South Africa and Argentina", "France and Scotland"],
+    "correctIndex": 1
+  },
+  {
+    "id": 923,
+    "category": "Sports",
+    "question": "Who is the first batsman to score 200 runs in an ODI?",
+    "options": ["Virender Sehwag", "Sachin Tendulkar", "Rohit Sharma", "Chris Gayle"],
+    "correctIndex": 1
+  },
+  {
+    "id": 924,
+    "category": "Sports",
+    "question": "In Chess, what is the term for a move where a pawn can capture an opponent's pawn that has just moved two squares?",
+    "options": ["Castling", "Promotion", "En Passant", "Gambit"],
+    "correctIndex": 2
+  },
+  {
+    "id": 925,
+    "category": "Sports",
+    "question": "Which Indian state is the birthplace of the game of Polo (Modern)?",
+    "options": ["Rajasthan", "Manipur", "Punjab", "West Bengal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 926,
+    "category": "Sports",
+    "question": "Who won the ICC Women's T20 World Cup in 2023?",
+    "options": ["India", "England", "Australia", "South Africa"],
+    "correctIndex": 2
+  },
+  {
+    "id": 927,
+    "category": "Sports",
+    "question": "How many players are there in a Polo team?",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 1
+  },
+  {
+    "id": 928,
+    "category": "Sports",
+    "question": "Who is the first Indian athlete to reach the final of an Olympic track event?",
+    "options": ["Milkha Singh", "P.T. Usha", "Gurbachan Singh Randhawa", "Norman Pritchard"],
+    "correctIndex": 2
+  },
+  {
+    "id": 929,
+    "category": "Sports",
+    "question": "Which player has scored the most runs in a single IPL season?",
+    "options": ["David Warner", "Virat Kohli", "Chris Gayle", "Jos Buttler"],
+    "correctIndex": 1
+  },
+  {
+    "id": 930,
+    "category": "Sports",
+    "question": "What is the standard weight of a Cricket ball (Men)?",
+    "options": ["140-150g", "155.9-163g", "170-180g", "120-130g"],
+    "correctIndex": 1
+  },
+  {
+    "id": 931,
+    "category": "Sports",
+    "question": "In Chess, the 'Queen's Gambit' is an example of an?",
+    "options": ["Endgame", "Opening", "Middle game", "Checkmate"],
+    "correctIndex": 1
+  },
+  {
+    "id": 932,
+    "category": "Sports",
+    "question": "Who won the FIFA Golden Ball in the 2022 World Cup?",
+    "options": ["Kylian Mbappe", "Lionel Messi", "Luka Modric", "Emiliano Martinez"],
+    "correctIndex": 1
+  },
+  {
+    "id": 933,
+    "category": "Sports",
+    "question": "Which country has won the most Thomas Cup titles in Badminton?",
+    "options": ["China", "Malaysia", "Indonesia", "Denmark"],
+    "correctIndex": 2
+  },
+  {
+    "id": 934,
+    "category": "Sports",
+    "question": "Who is the 'Hitman' of Indian Cricket?",
+    "options": ["Shikhar Dhawan", "Hardik Pandya", "Rohit Sharma", "KL Rahul"],
+    "correctIndex": 2
+  },
+  {
+    "id": 935,
+    "category": "Sports",
+    "question": "In which city is the 'Wankhede Stadium' located?",
+    "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "correctIndex": 1
+  },
+  {
+    "id": 936,
+    "category": "Sports",
+    "question": "Who is the first Indian woman to win a gold medal at the Asian Games?",
+    "options": ["P.T. Usha", "Kamaljeet Sandhu", "Santhi Soundarajan", "Karnam Malleswari"],
+    "correctIndex": 1
+  },
+  {
+    "id": 937,
+    "category": "Sports",
+    "question": "Which goalkeeper is known as 'The Black Spider'?",
+    "options": ["Oliver Kahn", "Lev Yashin", "Iker Casillas", "Gianluigi Buffon"],
+    "correctIndex": 1
+  },
+  {
+    "id": 938,
+    "category": "Sports",
+    "question": "In Chess, a situation where neither player can win is called a?",
+    "options": ["Check", "Draw", "Forfeit", "Resignation"],
+    "correctIndex": 1
+  },
+  {
+    "id": 939,
+    "category": "Sports",
+    "question": "Who won the first ever ICC Men's T20 World Cup in 2007?",
+    "options": ["Pakistan", "Australia", "India", "West Indies"],
+    "correctIndex": 2
+  },
+  {
+    "id": 940,
+    "category": "Sports",
+    "question": "What is the length of a standard swimming pool used in the Olympics?",
+    "options": ["25m", "50m", "75m", "100m"],
+    "correctIndex": 1
+  },
+  {
+    "id": 941,
+    "category": "Sports",
+    "question": "The 'Ashes' is a Test cricket series played between which two countries?",
+    "options": ["India and Pakistan", "Australia and England", "South Africa and New Zealand", "West Indies and England"],
+    "correctIndex": 1
+  },
+  {
+    "id": 942,
+    "category": "Sports",
+    "question": "Who is the only tennis player to achieve a 'Golden Slam' in a calendar year?",
+    "options": ["Roger Federer", "Steffi Graf", "Serena Williams", "Rafael Nadal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 943,
+    "category": "Sports",
+    "question": "Which player is called the 'Magician of Hockey'?",
+    "options": ["Dhanraj Pillay", "Major Dhyan Chand", "Balbir Singh Sr.", "Sardara Singh"],
+    "correctIndex": 1
+  },
+  {
+    "id": 944,
+    "category": "Sports",
+    "question": "In which Olympic Games did India win the most number of medals?",
+    "options": ["2012 London", "2016 Rio", "2020 Tokyo", "2008 Beijing"],
+    "correctIndex": 2
+  },
+  {
+    "id": 945,
+    "category": "Sports",
+    "question": "Who was the first Indian woman to become a Chess Grandmaster?",
+    "options": ["Koneru Humpy", "Harika Dronavalli", "Subbaraman Vijayalakshmi", "Tania Sachdev"],
+    "correctIndex": 2
+  },
+  {
+    "id": 946,
+    "category": "Sports",
+    "question": "Which sport uses a 'Shuttlecock'?",
+    "options": ["Table Tennis", "Badminton", "Lawn Tennis", "Squash"],
+    "correctIndex": 1
+  },
+  {
+    "id": 947,
+    "category": "Sports",
+    "question": "Who is the first Indian cricketer to take a hat-trick in Test cricket?",
+    "options": ["Anil Kumble", "Harbhajan Singh", "Irfan Pathan", "Jasprit Bumrah"],
+    "correctIndex": 1
+  },
+  {
+    "id": 948,
+    "category": "Sports",
+    "question": "In Football, which player is allowed to use their hands during active play?",
+    "options": ["Captain", "Striker", "Goalkeeper", "Defender"],
+    "correctIndex": 2
+  },
+  {
+    "id": 949,
+    "category": "Sports",
+    "question": "Which country won the first ever Rugby World Cup in 1987?",
+    "options": ["Australia", "New Zealand", "South Africa", "France"],
+    "correctIndex": 1
+  },
+  {
+    "id": 950,
+    "category": "Sports",
+    "question": "Who is the youngest player to score a goal in a FIFA World Cup final?",
+    "options": ["Kylian Mbappe", "Pele", "Lionel Messi", "Cristiano Ronaldo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 951,
+    "category": "Sports",
+    "question": "Which Indian athlete is known as the 'Dhing Express'?",
+    "options": ["P.T. Usha", "Hima Das", "Dutee Chand", "Mary Kom"],
+    "correctIndex": 1
+  },
+  {
+    "id": 952,
+    "category": "Sports",
+    "question": "The 'Wimbledon' championship is held in which city?",
+    "options": ["New York", "Paris", "London", "Melbourne"],
+    "correctIndex": 2
+  },
+  {
+    "id": 953,
+    "category": "Sports",
+    "question": "In Chess, what is the '50-move rule'?",
+    "options": ["Game ends after 50 moves", "A draw can be claimed if no pawn move or capture occurs in 50 moves", "Players must move within 50 seconds", "Promotion happens after 50 moves"],
+    "correctIndex": 1
+  },
+  {
+    "id": 954,
+    "category": "Sports",
+    "question": "Who is the first Indian to win a medal in Boxing at the Olympics?",
+    "options": ["Mary Kom", "Vijender Singh", "Lovlina Borgohain", "Amit Panghal"],
+    "correctIndex": 1
+  },
+  {
+    "id": 955,
+    "category": "Sports",
+    "question": "Which country has won the most ICC Cricket World Cups (ODI)?",
+    "options": ["India", "West Indies", "Australia", "England"],
+    "correctIndex": 2
+  },
+  {
+    "id": 956,
+    "category": "Sports",
+    "question": "What is the motto of the Olympic Games?",
+    "options": ["Faster, Higher, Stronger - Together", "Unity in Diversity", "Play to Win", "Sport for All"],
+    "correctIndex": 0
+  },
+  {
+    "id": 957,
+    "category": "Sports",
+    "question": "Who is the first cricketer to play 200 Test matches?",
+    "options": ["Ricky Ponting", "Sachin Tendulkar", "Jacques Kallis", "Alastair Cook"],
+    "correctIndex": 1
+  },
+  {
+    "id": 958,
+    "category": "Sports",
+    "question": "In which sport is the 'Sudirman Cup' awarded?",
+    "options": ["Tennis", "Badminton", "Table Tennis", "Squash"],
+    "correctIndex": 1
+  },
+  {
+    "id": 959,
+    "category": "Sports",
+    "question": "Which team won the IPL 2024 title?",
+    "options": ["Sunrisers Hyderabad", "Kolkata Knight Riders", "Chennai Super Kings", "Rajasthan Royals"],
+    "correctIndex": 1
+  },
+  {
+    "id": 960,
+    "category": "Sports",
+    "question": "Who holds the record for most runs in a single Cricket World Cup tournament?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "Matthew Hayden", "Rohit Sharma"],
+    "correctIndex": 1
+  },
+  {
+    "id": 961,
+    "category": "Sports",
+    "question": "In Chess, what is 'Castling'?",
+    "options": ["Moving the King and Rook together", "Capturing a Queen", "A type of opening", "Promoting a pawn"],
+    "correctIndex": 0
+  },
+  {
+    "id": 962,
+    "category": "Sports",
+    "question": "Who was the first Indian woman to win an individual gold medal at the Asian Games in shooting?",
+    "options": ["Manu Bhaker", "Rahi Sarnobat", "Heena Sidhu", "Saurabh Chaudhary"],
+    "correctIndex": 1
+  },
+  {
+    "id": 963,
+    "category": "Sports",
+    "question": "The term 'Hat-trick' originated from which sport?",
+    "options": ["Football", "Cricket", "Hockey", "Baseball"],
+    "correctIndex": 1
+  },
+  {
+    "id": 964,
+    "category": "Sports",
+    "question": "Which player is known as 'The King of Football'?",
+    "options": ["Diego Maradona", "Pele", "Lionel Messi", "Cristiano Ronaldo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 965,
+    "category": "Sports",
+    "question": "Who won the first ever Olympic medal for independent India?",
+    "options": ["K.D. Jadhav", "Leander Paes", "Milkha Singh", "Dhyan Chand"],
+    "correctIndex": 0
+  },
+  {
+    "id": 966,
+    "category": "Sports",
+    "question": "How many players are in a team in a game of Basketball?",
+    "options": ["5", "7", "11", "9"],
+    "correctIndex": 0
+  },
+  {
+    "id": 967,
+    "category": "Sports",
+    "question": "Which country is called the 'Home of Cricket'?",
+    "options": ["India", "England", "Australia", "South Africa"],
+    "correctIndex": 1
+  },
+  {
+    "id": 968,
+    "category": "Sports",
+    "question": "In Chess, the 'Fool's Mate' takes how many moves?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 0
+  },
+  {
+    "id": 969,
+    "category": "Sports",
+    "question": "Which athlete has won the most gold medals in a single Olympic Games?",
+    "options": ["Usain Bolt", "Michael Phelps", "Mark Spitz", "Carl Lewis"],
+    "correctIndex": 1
+  },
+  {
+    "id": 970,
+    "category": "Sports",
+    "question": "Who is the first Indian female to win a silver medal at the Olympics?",
+    "options": ["P.V. Sindhu", "Saina Nehwal", "Mirabai Chanu", "Sakshi Malik"],
+    "correctIndex": 0
+  },
+  {
+    "id": 971,
+    "category": "Sports",
+    "question": "In Cricket, what is the 'Powerplay'?",
+    "options": ["Fielding restrictions", "Extra runs for boundaries", "Time-out for players", "Batting with heavy bats"],
+    "correctIndex": 0
+  },
+  {
+    "id": 972,
+    "category": "Sports",
+    "question": "Who is the first Indian to win the World Amateur Billiards title?",
+    "options": ["Geet Sethi", "Pankaj Advani", "Wilson Jones", "Michael Ferreira"],
+    "correctIndex": 2
+  },
+  {
+    "id": 973,
+    "category": "Sports",
+    "question": "Which country won the first FIFA Women's World Cup in 1991?",
+    "options": ["USA", "Norway", "Germany", "China"],
+    "correctIndex": 0
+  },
+  {
+    "id": 974,
+    "category": "Sports",
+    "question": "In Chess, which player moves first?",
+    "options": ["Black", "White", "Decided by toss", "Younger player"],
+    "correctIndex": 1
+  },
+  {
+    "id": 975,
+    "category": "Sports",
+    "question": "Which IPL team has won the tournament with the fewest overall wins in a season?",
+    "options": ["Rajasthan Royals", "Deccan Chargers", "Kolkata Knight Riders", "Chennai Super Kings"],
+    "correctIndex": 1
+  },
+  {
+    "id": 976,
+    "category": "Sports",
+    "question": "Who is the only Indian to have won a World Championship in Badminton?",
+    "options": ["Saina Nehwal", "P.V. Sindhu", "Prakash Padukone", "Lakshya Sen"],
+    "correctIndex": 1
+  },
+  {
+    "id": 977,
+    "category": "Sports",
+    "question": "In Cricket, the term 'Follow-on' applies to which format?",
+    "options": ["T20", "ODI", "Test Cricket", "All formats"],
+    "correctIndex": 2
+  },
+  {
+    "id": 978,
+    "category": "Sports",
+    "question": "Which country has hosted the most Summer Olympic Games?",
+    "options": ["UK", "USA", "France", "Japan"],
+    "correctIndex": 1
+  },
+  {
+    "id": 979,
+    "category": "Sports",
+    "question": "Who is the first Indian bowler to take a hat-trick in an ODI?",
+    "options": ["Chetan Sharma", "Kapil Dev", "Kuldeep Yadav", "Mohammed Shami"],
+    "correctIndex": 0
+  },
+  {
+    "id": 980,
+    "category": "Sports",
+    "question": "Which piece in Chess cannot capture pieces?",
+    "options": ["King", "Pawn", "All pieces can capture", "Bishop"],
+    "correctIndex": 2
+  },
+  {
+    "id": 981,
+    "category": "Sports",
+    "question": "Who holds the world record for the highest score in a single Test innings?",
+    "options": ["Matthew Hayden", "Brian Lara", "Don Bradman", "Virender Sehwag"],
+    "correctIndex": 1
+  },
+  {
+    "id": 982,
+    "category": "Sports",
+    "question": "In Football, what is a 'Nutmeg'?",
+    "options": ["A type of goal", "Passing the ball between an opponent's legs", "A foul", "A corner kick"],
+    "correctIndex": 1
+  },
+  {
+    "id": 983,
+    "category": "Sports",
+    "question": "Who was the first Indian to win the 'Player of the Tournament' award in a Cricket World Cup?",
+    "options": ["Sachin Tendulkar", "Yuvraj Singh", "Mohammad Azharuddin", "Kapil Dev"],
+    "correctIndex": 0
+  },
+  {
+    "id": 984,
+    "category": "Sports",
+    "question": "Which country won the Uber Cup 2024?",
+    "options": ["China", "Indonesia", "Japan", "South Korea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 985,
+    "category": "Sports",
+    "question": "In Chess, 'Elo rating' is used to measure?",
+    "options": ["Speed", "Skill level", "Age", "Experience"],
+    "correctIndex": 1
+  },
+  {
+    "id": 986,
+    "category": "Sports",
+    "question": "Who is the first Indian woman to win an Olympic medal in Badminton?",
+    "options": ["P.V. Sindhu", "Saina Nehwal", "Jwala Gutta", "Ashwini Ponnappa"],
+    "correctIndex": 1
+  },
+  {
+    "id": 987,
+    "category": "Sports",
+    "question": "The term 'Googly' is used in which sport?",
+    "options": ["Hockey", "Cricket", "Football", "Golf"],
+    "correctIndex": 1
+  },
+  {
+    "id": 988,
+    "category": "Sports",
+    "question": "Who is the first Indian to score a century in the IPL?",
+    "options": ["Virat Kohli", "Suresh Raina", "Manish Pandey", "Rohit Sharma"],
+    "correctIndex": 2
+  },
+  {
+    "id": 989,
+    "category": "Sports",
+    "question": "How many minutes is each half of a professional football game?",
+    "options": ["30", "40", "45", "50"],
+    "correctIndex": 2
+  },
+  {
+    "id": 990,
+    "category": "Sports",
+    "question": "Which sport uses the terms 'Deuce' and 'Advantage'?",
+    "options": ["Cricket", "Tennis", "Chess", "Basketball"],
+    "correctIndex": 1
+  },
+  {
+    "id": 991,
+    "category": "Sports",
+    "question": "Who is the only cricketer to score three double centuries in ODIs?",
+    "options": ["Virender Sehwag", "Rohit Sharma", "Sachin Tendulkar", "Chris Gayle"],
+    "correctIndex": 1
+  },
+  {
+    "id": 992,
+    "category": "Sports",
+    "question": "In Chess, what does 'GM' stand for?",
+    "options": ["Great Master", "Grandmaster", "Global Master", "General Manager"],
+    "correctIndex": 1
+  },
+  {
+    "id": 993,
+    "category": "Sports",
+    "question": "Who won the FIFA World Cup Golden Boot in 2022?",
+    "options": ["Lionel Messi", "Kylian Mbappe", "Harry Kane", "Cristiano Ronaldo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 994,
+    "category": "Sports",
+    "question": "Which Indian athlete is known as the 'Payyoli Express'?",
+    "options": ["Milkha Singh", "P.T. Usha", "Hima Das", "Anju Bobby George"],
+    "correctIndex": 1
+  },
+  {
+    "id": 995,
+    "category": "Sports",
+    "question": "In Badminton, a let is called when?",
+    "options": ["The shuttle touches the net and falls in", "Server serves before receiver is ready", "Both A & B", "Shuttle falls outside"],
+    "correctIndex": 1
+  },
+  {
+    "id": 996,
+    "category": "Sports",
+    "question": "Who was the first Indian woman to win a medal at the World Wrestling Championships?",
+    "options": ["Geeta Phogat", "Babita Kumari", "Vinesh Phogat", "Anshu Malik"],
+    "correctIndex": 0
+  },
+  {
+    "id": 997,
+    "category": "Sports",
+    "question": "Which country won the most gold medals in the first ever Olympic Games (1896)?",
+    "options": ["Greece", "USA", "Germany", "France"],
+    "correctIndex": 1
+  },
+  {
+    "id": 998,
+    "category": "Sports",
+    "question": "Who is the first Indian to take all 10 wickets in a Test innings?",
+    "options": ["Kapil Dev", "Anil Kumble", "Harbhajan Singh", "R. Ashwin"],
+    "correctIndex": 1
+  },
+  {
+    "id": 999,
+    "category": "Sports",
+    "question": "The 'Walker Cup' is associated with which sport?",
+    "options": ["Tennis", "Golf", "Hockey", "Cricket"],
+    "correctIndex": 1
+  },
+  {
+    "id": 1000,
+    "category": "Sports",
+    "question": "Who is the only athlete to win Olympic gold in the 100m, 200m and 4x100m relay in three consecutive Olympics?",
+    "options": ["Carl Lewis", "Usain Bolt", "Michael Johnson", "Jesse Owens"],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,2921 @@
+[
+        ("What is the capital of Himachal Pradesh?", ["Shimla", "Manali", "Dharamshala", "Solan"], 0),
+        ("Which Indian state is known as the 'Land of Five Rivers'?", ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"], 0),
+        ("Dispur is the capital city of which Indian state?", ["Assam", "Meghalaya", "Nagaland", "Sikkim"], 0),
+        ("Which is the largest state in India by area?", ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"], 0),
+        ("Which state is known as the 'Spice Garden of India'?", ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"], 0),
+        ("Panaji is the capital of which state?", ["Goa", "Gujarat", "Maharashtra", "Kerala"], 0),
+        ("Which state has the longest coastline in India?", ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"], 0),
+        ("Itanagar is the capital of which North-Eastern state?", ["Arunachal Pradesh", "Mizoram", "Tripura", "Manipur"], 0),
+        ("Which Indian state shares borders with three countries: Nepal, Bhutan, and China?", ["Sikkim", "Arunachal Pradesh", "Uttarakhand", "West Bengal"], 0),
+        ("What is the capital of Telangana?", ["Hyderabad", "Warangal", "Secunderabad", "Nizamabad"], 0),
+        ("Which state is home to the Khasi and Jaintia hills?", ["Meghalaya", "Assam", "Mizoram", "Nagaland"], 0),
+        ("Which is the smallest state of India by area?", ["Goa", "Sikkim", "Tripura", "Nagaland"], 0),
+        ("Raipur is the capital of which state?", ["Chhattisgarh", "Jharkhand", "Uttarakhand", "Odisha"], 0),
+        ("Which state is known as the 'Soya Region' of India?", ["Madhya Pradesh", "Rajasthan", "Punjab", "Bihar"], 0),
+        ("In which state is the Kaziranga National Park located?", ["Assam", "West Bengal", "Odisha", "Bihar"], 0),
+        ("What is the capital of Jharkhand?", ["Ranchi", "Jamshedpur", "Dhanbad", "Bokaro"], 0),
+        ("Which state was bifurcated to create the state of Uttarakhand?", ["Uttar Pradesh", "Madhya Pradesh", "Bihar", "Punjab"], 0),
+        ("Which state has the highest literacy rate in India?", ["Kerala", "Mizoram", "Goa", "Tamil Nadu"], 0),
+        ("Amaravati is the proposed capital of which state?", ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"], 0),
+        ("Which state is known for the 'Sunderbans' delta?", ["West Bengal", "Odisha", "Tamil Nadu", "Kerala"], 0),
+        ("What is the capital of Manipur?", ["Imphal", "Kohima", "Aizawl", "Agartala"], 0),
+        ("Which state is the leading producer of Jute in India?", ["West Bengal", "Assam", "Bihar", "Odisha"], 0),
+        ("Which state is known as the 'Egg Bowl of Asia'?", ["Andhra Pradesh", "Tamil Nadu", "Kerala", "Karnataka"], 0),
+        ("Aizawl is the capital of which state?", ["Mizoram", "Nagaland", "Manipur", "Tripura"], 0),
+        ("Which state is separated from Sri Lanka by the Palk Strait?", ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"], 0),
+
+        ("What is the capital of Australia?", ["Canberra", "Sydney", "Melbourne", "Perth"], 0),
+        ("Which city is the capital of Canada?", ["Ottawa", "Toronto", "Vancouver", "Montreal"], 0),
+        ("What is the capital of Japan?", ["Tokyo", "Osaka", "Kyoto", "Hiroshima"], 0),
+        ("Cairo is the capital of which country?", ["Egypt", "Sudan", "Morocco", "Libya"], 0),
+        ("What is the capital of Brazil?", ["Brasilia", "Rio de Janeiro", "Sao Paulo", "Salvador"], 0),
+        ("Reykjavik is the capital of which island nation?", ["Iceland", "Greenland", "Ireland", "Finland"], 0),
+        ("What is the capital of Russia?", ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg"], 0),
+        ("Bangkok is the capital of which country?", ["Thailand", "Vietnam", "Malaysia", "Indonesia"], 0),
+        ("What is the capital of Germany?", ["Berlin", "Munich", "Frankfurt", "Hamburg"], 0),
+        ("Paris is the capital of which country?", ["France", "Italy", "Spain", "Germany"], 0),
+        ("What is the capital of South Korea?", ["Seoul", "Busan", "Incheon", "Daegu"], 0),
+        ("Nairobi is the capital of which African country?", ["Kenya", "Ethiopia", "Tanzania", "Uganda"], 0),
+        ("What is the capital of Italy?", ["Rome", "Milan", "Venice", "Florence"], 0),
+        ("Ankara is the capital of which country?", ["Turkey", "Greece", "Syria", "Iraq"], 0),
+        ("What is the capital of Argentina?", ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"], 0),
+        ("Lisbon is the capital of which country?", ["Portugal", "Spain", "Greece", "Italy"], 0),
+        ("What is the capital of Saudi Arabia?", ["Riyadh", "Jeddah", "Mecca", "Medina"], 0),
+        ("Athens is the capital of which country?", ["Greece", "Italy", "Turkey", "Egypt"], 0),
+        ("What is the capital of New Zealand?", ["Wellington", "Auckland", "Christchurch", "Hamilton"], 0),
+        ("Stockholm is the capital of which country?", ["Sweden", "Norway", "Finland", "Denmark"], 0),
+        ("What is the capital of Mexico?", ["Mexico City", "Cancun", "Guadalajara", "Monterrey"], 0),
+        ("Beijing is the capital of which country?", ["China", "Japan", "Mongolia", "Vietnam"], 0),
+        ("What is the capital of South Africa?", ["Pretoria", "Cape Town", "Johannesburg", "Durban"], 0),
+        ("Dublin is the capital of which country?", ["Ireland", "United Kingdom", "Scotland", "Wales"], 0),
+        ("What is the capital of Indonesia?", ["Jakarta", "Bali", "Surabaya", "Bandung"], 0),
+        ("Oslo is the capital of which country?", ["Norway", "Sweden", "Denmark", "Finland"], 0),
+        ("What is the capital of Spain?", ["Madrid", "Barcelona", "Valencia", "Seville"], 0),
+        ("Hanoi is the capital of which country?", ["Vietnam", "Laos", "Cambodia", "Thailand"], 0),
+        ("What is the capital of Switzerland?", ["Bern", "Zurich", "Geneva", "Basel"], 0),
+        ("Manila is the capital of which country?", ["Philippines", "Malaysia", "Thailand", "Indonesia"], 0),
+        ("Which is the longest river in the world?", ["Nile", "Amazon", "Yangtze", "Mississippi"], 0),
+        ("The Amazon River flows through which continent?", ["South America", "Africa", "Asia", "North America"], 0),
+        ("Which river is known as the 'Ganga of the South' in India?", ["Kaveri", "Godavari", "Krishna", "Narmada"], 0),
+        ("Which river flows through London?", ["Thames", "Seine", "Danube", "Rhine"], 0),
+        ("What is the longest river in Asia?", ["Yangtze", "Yellow River", "Mekong", "Ganges"], 0),
+        ("The Victoria Falls are located on which river?", ["Zambezi", "Nile", "Congo", "Niger"], 0),
+        ("Which river forms the boundary between USA and Mexico?", ["Rio Grande", "Mississippi", "Colorado", "Missouri"], 0),
+        ("Which is the largest freshwater lake in the world by surface area?", ["Lake Superior", "Lake Victoria", "Lake Baikal", "Lake Michigan"], 0),
+        ("Which river is known as the 'Yellow River' in China?", ["Huang He", "Yangtze", "Xi Jiang", "Mekong"], 0),
+        ("The city of Cairo stands on the banks of which river?", ["Nile", "Niger", "Congo", "Zambezi"], 0),
+        ("Which is the deepest lake in the world?", ["Lake Baikal", "Lake Tanganyika", "Caspian Sea", "Lake Vostok"], 0),
+        ("The Danube River flows into which sea?", ["Black Sea", "Mediterranean Sea", "Caspian Sea", "North Sea"], 0),
+        ("Which Indian river is known as the 'Sorrows of Bihar'?", ["Kosi", "Gandak", "Son", "Damodar"], 0),
+        ("The Murray River is located in which country?", ["Australia", "Canada", "USA", "New Zealand"], 0),
+        ("Which river flows through Paris?", ["Seine", "Loire", "Rhone", "Garonne"], 0),
+        ("What is the longest river in Europe?", ["Volga", "Danube", "Rhine", "Elbe"], 0),
+        ("Which is the largest lake in Africa?", ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"], 0),
+        ("The river Tigris is associated with which ancient civilization?", ["Mesopotamia", "Egypt", "Indus Valley", "China"], 0),
+        ("Which is the only river in India that flows through a rift valley?", ["Narmada", "Tapi", "Godavari", "Krishna"], 0),
+        ("The Rhine River flows primarily through which country?", ["Germany", "France", "Austria", "Switzerland"], 0),
+        ("Which river crosses the Equator twice?", ["Congo", "Nile", "Amazon", "Zambezi"], 0),
+        ("What is the largest artificial lake in the world by surface area?", ["Lake Volta", "Lake Kariba", "Lake Mead", "Lake Nasser"], 0),
+        ("Which river flows through New York City?", ["Hudson", "Potomac", "Delaware", "Charles"], 0),
+        ("The Great Salt Lake is located in which US state?", ["Utah", "Nevada", "Arizona", "California"], 0),
+        ("Which river is known as the 'Father of Waters'?", ["Mississippi", "Amazon", "Nile", "Yangtze"], 0),
+        ("The Irrawaddy River flows through which country?", ["Myanmar", "Thailand", "Vietnam", "Laos"], 0),
+        ("Which lake is shared by Peru and Bolivia?", ["Lake Titicaca", "Lake Poopo", "Lake Maracaibo", "Lake Nicaragua"], 0),
+        ("The Brahmaputra river is known as what in Tibet?", ["Tsangpo", "Dihang", "Jamuna", "Padma"], 0),
+        ("Which river passes through the Grand Canyon?", ["Colorado", "Rio Grande", "Snake", "Columbia"], 0),
+        ("The Dead Sea is located between which two countries?", ["Jordan and Israel", "Egypt and Sudan", "Syria and Iraq", "Turkey and Greece"], 0),
+
+        # Mountains & Plateaus (25)
+        ("Which is the highest mountain peak in the world?", ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"], 0),
+        ("The Andes mountain range is located in which continent?", ["South America", "Europe", "Asia", "Africa"], 0),
+        ("Which is the highest mountain peak in India?", ["Kanchenjunga", "Nanda Devi", "Anamudi", "Doddabetta"], 0),
+        ("The Atlas Mountains are located in which continent?", ["Africa", "Europe", "North America", "South America"], 0),
+        ("Which is the longest mountain range in the world?", ["Andes", "Rockies", "Himalayas", "Urals"], 0),
+        ("In which country are the Southern Alps located?", ["New Zealand", "Switzerland", "Australia", "Austria"], 0),
+        ("Mount Kilimanjaro is the highest point of which continent?", ["Africa", "Asia", "South America", "Europe"], 0),
+        ("Which mountain range separates Europe and Asia?", ["Ural Mountains", "Alps", "Pyrenees", "Carpathians"], 0),
+        ("The Deccan Plateau is located in which country?", ["India", "China", "Australia", "Brazil"], 0),
+        ("Which is the highest peak in the Alps?", ["Mont Blanc", "Matterhorn", "Mount Elbrus", "Jungfrau"], 0),
+        ("The Rocky Mountains are found in which continent?", ["North America", "South America", "Europe", "Asia"], 0),
+        ("Which is the highest peak in Africa?", ["Mount Kilimanjaro", "Mount Kenya", "Mount Stanley", "Mount Meru"], 0),
+        ("The Tibetan Plateau is often called what?", ["Roof of the World", "Garden of the World", "Land of Snow", "Golden Plateau"], 0),
+        ("Mount Vesuvius is an active volcano in which country?", ["Italy", "Greece", "Japan", "Iceland"], 0),
+        ("Which mountain range is located in the eastern part of Australia?", ["Great Dividing Range", "Blue Mountains", "Himalayas", "Appalachians"], 0),
+        ("The Pyrenees mountains form the border between which two countries?", ["France and Spain", "Germany and France", "Italy and Switzerland", "Norway and Sweden"], 0),
+        ("Which is the highest peak in the Western Ghats of India?", ["Anamudi", "Doddabetta", "Mahendragiri", "Kalsubai"], 0),
+        ("Mount Fuji is a famous landmark of which country?", ["Japan", "China", "South Korea", "Taiwan"], 0),
+        ("The Appalachian Mountains are in which country?", ["USA", "Canada", "UK", "Australia"], 0),
+        ("Which is the highest peak in North America?", ["Denali", "Mount Logan", "Mount Rainier", "Mount Whitney"], 0),
+        ("The Karakoram Range is located between which regions?", ["India and Pakistan", "India and China", "Pakistan and China", "All of the above"], 3),
+        ("Which of these is a fold mountain?", ["Himalayas", "Black Forest", "Vindhyas", "Vosges"], 0),
+        ("The Drakensberg mountains are located in which country?", ["South Africa", "Kenya", "Ethiopia", "Morocco"], 0),
+        ("Which is the highest plateau in the world?", ["Tibetan Plateau", "Deccan Plateau", "Colorado Plateau", "Altiplano"], 0),
+        ("Mount Aconcagua is the highest peak in which mountain range?", ["Andes", "Rockies", "Alps", "Himalayas"], 0),
+
+        # Oceans, Seas & Islands (25)
+        ("Which is the largest ocean in the world?", ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"], 0),
+        ("The deepest point on Earth, the Mariana Trench, is in which ocean?", ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"], 0),
+        ("Which ocean is 'S' shaped?", ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"], 0),
+        ("Which is the smallest ocean in the world?", ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"], 0),
+        ("Greenland, the largest island, is part of which country?", ["Denmark", "Norway", "Canada", "Iceland"], 0),
+        ("The Great Barrier Reef is off the coast of which country?", ["Australia", "Indonesia", "Papua New Guinea", "Philippines"], 0),
+        ("Which sea separates Europe from Africa?", ["Mediterranean Sea", "Red Sea", "Black Sea", "Caspian Sea"], 0),
+        ("Which is the largest sea in the world?", ["Philippine Sea", "Coral Sea", "Arabian Sea", "Caribbean Sea"], 0),
+        ("Madagascar is an island nation in which ocean?", ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Southern Ocean"], 0),
+        ("The Bermuda Triangle is located in which ocean?", ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"], 0),
+        ("Which island group is known as the 'Emerald Isle'?", ["Ireland", "Great Britain", "Iceland", "Sri Lanka"], 0),
+        ("The Panama Canal connects which two oceans?", ["Atlantic and Pacific", "Atlantic and Indian", "Pacific and Indian", "Arctic and Atlantic"], 0),
+        ("Which country has the most islands in the world?", ["Sweden", "Norway", "Finland", "Canada"], 0),
+        ("The Persian Gulf is located between which two regions?", ["Arabian Peninsula and Iran", "Africa and Asia", "India and Pakistan", "Europe and Asia"], 0),
+        ("Which is the largest island in the Indian Ocean?", ["Madagascar", "Sri Lanka", "Sumatra", "Java"], 0),
+        ("The Caribbean Sea is part of which ocean?", ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"], 0),
+        ("Which strait separates Australia and Tasmania?", ["Bass Strait", "Torres Strait", "Cook Strait", "Malacca Strait"], 0),
+        ("The Maldives is located in which ocean?", ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"], 0),
+        ("Which sea is the saltiest in the world?", ["Red Sea", "Dead Sea", "Mediterranean Sea", "Caspian Sea"], 0),
+        ("The Galápagos Islands belong to which country?", ["Ecuador", "Peru", "Chile", "Colombia"], 0),
+        ("Which ocean surrounds the continent of Antarctica?", ["Southern Ocean", "Indian Ocean", "Pacific Ocean", "Atlantic Ocean"], 0),
+        ("Honshu is the largest island of which country?", ["Japan", "South Korea", "China", "Philippines"], 0),
+        ("The Strait of Gibraltar connects the Atlantic Ocean with which sea?", ["Mediterranean Sea", "North Sea", "Baltic Sea", "Black Sea"], 0),
+        ("Which island is shared by Malaysia, Indonesia, and Brunei?", ["Borneo", "New Guinea", "Sumatra", "Java"], 0),
+        ("The Java Trench is the deepest part of which ocean?", ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"], 0),
+
+        # Countries & General Geography (65)
+        ("Which country is known as the 'Land of the Rising Sun'?", ["Japan", "China", "Norway", "Australia"], 0),
+        ("Which is the largest country in the world by area?", ["Russia", "Canada", "USA", "China"], 0),
+        ("Which country has the largest population in the world (as of 2024)?", ["India", "China", "USA", "Indonesia"], 0),
+        ("Which country is also a continent?", ["Australia", "Antarctica", "Africa", "South America"], 0),
+        ("The 'Gobi Desert' is located primarily in which two countries?", ["Mongolia and China", "India and Pakistan", "Egypt and Sudan", "Chile and Peru"], 0),
+        ("Which is the smallest country in the world?", ["Vatican City", "Monaco", "Nauru", "San Marino"], 0),
+        ("Which country is known as the 'Land of a Thousand Lakes'?", ["Finland", "Sweden", "Norway", "Canada"], 0),
+        ("The 'Sahara Desert' is located in which continent?", ["Africa", "Asia", "Australia", "South America"], 0),
+        ("Which imaginary line divides the Earth into Northern and Southern Hemispheres?", ["Equator", "Prime Meridian", "Tropic of Cancer", "Tropic of Capricorn"], 0),
+        ("Which country is known as the 'Land of the Midnight Sun'?", ["Norway", "Sweden", "Iceland", "Canada"], 0),
+        ("The 'Great Wall' is a famous landmark of which country?", ["China", "India", "Germany", "Mexico"], 0),
+        ("Which is the largest desert in the world?", ["Antarctic Desert", "Arctic Desert", "Sahara Desert", "Gobi Desert"], 0),
+        ("Which country is known as the 'Land of the Thunder Dragon'?", ["Bhutan", "Nepal", "Tibet", "Thailand"], 0),
+        ("The 'Prime Meridian' passes through which city?", ["Greenwich", "Paris", "Berlin", "New York"], 0),
+        ("Which is the hottest continent on Earth?", ["Africa", "Australia", "Asia", "South America"], 0),
+        ("Which country is famous for its fjords?", ["Norway", "New Zealand", "Canada", "Chile"], 0),
+        ("The 'Suez Canal' is in which country?", ["Egypt", "Panama", "Turkey", "Saudi Arabia"], 0),
+        ("Which is the coldest place on Earth?", ["Antarctica", "Siberia", "Greenland", "Alaska"], 0),
+        ("Which country is known as the 'Land of White Elephants'?", ["Thailand", "India", "Sri Lanka", "Cambodia"], 0),
+        ("The 'Atacama Desert' is located in which country?", ["Chile", "Peru", "Argentina", "Bolivia"], 0),
+        ("Which continent has the most countries?", ["Africa", "Asia", "Europe", "South America"], 0),
+        ("Which country has the most time zones?", ["France", "Russia", "USA", "China"], 0),
+        ("The 'Great Canyon' is located in which country?", ["USA", "Australia", "South Africa", "Mexico"], 0),
+        ("Which is the largest peninsula in the world?", ["Arabian Peninsula", "Indian Peninsula", "Indochinese Peninsula", "Iberian Peninsula"], 0),
+        ("Which country is known as the 'Land of Maple'?", ["Canada", "USA", "Russia", "Germany"], 0),
+        ("The 'Black Forest' is located in which country?", ["Germany", "Austria", "Switzerland", "France"], 0),
+        ("Which is the windiest continent?", ["Antarctica", "Asia", "Africa", "Australia"], 0),
+        ("Which country is known as the 'Sugar Bowl of the World'?", ["Cuba", "Brazil", "India", "USA"], 0),
+        ("The 'Veld' is a type of grassland found in which country?", ["South Africa", "Australia", "Argentina", "USA"], 0),
+        ("Which country shares the longest land border with the USA?", ["Canada", "Mexico", "Russia", "Bahamas"], 0),
+        ("The 'Golden Triangle' in SE Asia involves which countries?", ["Thailand, Laos, Myanmar", "Vietnam, Laos, Cambodia", "Thailand, Malaysia, Singapore", "India, Nepal, Bhutan"], 0),
+        ("Which is the most populous city in the world?", ["Tokyo", "Delhi", "Shanghai", "Sao Paulo"], 0),
+        ("Which country is known as the 'Playground of Europe'?", ["Switzerland", "Italy", "France", "Austria"], 0),
+        ("The 'Llanos' are grasslands found in which continent?", ["South America", "Africa", "Australia", "Europe"], 0),
+        ("Which country has the shortest coastline?", ["Monaco", "Jordan", "Bosnia", "Nauru"], 0),
+        ("The 'Benelux' countries include Belgium, Netherlands, and which other?", ["Luxembourg", "Germany", "France", "Switzerland"], 0),
+        ("Which is the most northerly capital city in the world?", ["Reykjavik", "Oslo", "Helsinki", "Stockholm"], 0),
+        ("The 'Great Rift Valley' is primarily located in which continent?", ["Africa", "Asia", "Australia", "Europe"], 0),
+        ("Which country is known as the 'Land of Tulips'?", ["Netherlands", "Belgium", "Denmark", "Turkey"], 0),
+        ("The 'Khyber Pass' connects which two countries?", ["Pakistan and Afghanistan", "India and Pakistan", "China and Nepal", "Iran and Iraq"], 0),
+        ("Which is the largest landlocked country in the world?", ["Kazakhstan", "Mongolia", "Chad", "Niger"], 0),
+        ("The 'Adriatic Sea' is between which two countries?", ["Italy and Balkan Peninsula", "Spain and Morocco", "Greece and Turkey", "UK and France"], 0),
+        ("Which country is known as the 'Land of the Golden Fleece'?", ["Australia", "New Zealand", "South Africa", "Argentina"], 0),
+        ("The 'Selvas' are tropical rainforests of which river basin?", ["Amazon", "Congo", "Nile", "Mississippi"], 0),
+        ("Which country is known as the 'Land of Poets'?", ["Chile", "Iceland", "Italy", "France"], 0),
+        ("The 'Great Bear Lake' is located in which country?", ["Canada", "USA", "Russia", "Norway"], 0),
+        ("Which is the most sparsely populated country in the world?", ["Mongolia", "Namibia", "Australia", "Iceland"], 0),
+        ("The 'Alps' cover parts of how many countries?", ["8", "5", "10", "3"], 0),
+        ("Which country is known as the 'Cradle of Civilization'?", ["Iraq", "Egypt", "China", "India"], 0),
+        ("The 'Yucatán Peninsula' is in which country?", ["Mexico", "Guatemala", "Belize", "Honduras"], 0),
+        ("Which is the largest country in South America?", ["Brazil", "Argentina", "Peru", "Colombia"], 0),
+        ("The 'Pampas' are grasslands found in which country?", ["Argentina", "Brazil", "Uruguay", "Chile"], 0),
+        ("Which country has the shape of a boot?", ["Italy", "Greece", "Norway", "Chile"], 0),
+        ("The 'White Cliffs of Dover' are in which country?", ["United Kingdom", "France", "USA", "Australia"], 0),
+        ("Which is the most southerly city in the world?", ["Ushuaia", "Punta Arenas", "Hobart", "Invercargill"], 0),
+        ("The 'Danakil Depression' is located in which country?", ["Ethiopia", "Egypt", "Libya", "Mali"], 0),
+        ("Which country is known as the 'Pearl of the Antilles'?", ["Cuba", "Haiti", "Jamaica", "Puerto Rico"], 0),
+        ("The 'Appennine' mountains are in which country?", ["Italy", "Greece", "Spain", "France"], 0),
+        ("Which is the second largest country in the world by area?", ["Canada", "Russia", "China", "USA"], 0),
+        ("The 'Rub' al Khali' desert is in which peninsula?", ["Arabian", "Indian", "Iberian", "Balkan"], 0),
+        ("Which country is known as the 'Land of Hope'?", ["Argentina", "Brazil", "Mexico", "South Africa"], 0),
+        ("The 'Massif Central' is a highland region in which country?", ["France", "Germany", "Spain", "Italy"], 0),
+        ("Which is the most widely spoken language in the world?", ["English", "Mandarin", "Spanish", "Hindi"], 0),
+        ("The 'Great Victoria Desert' is in which country?", ["Australia", "South Africa", "Botswana", "USA"], 0),
+        ("Which country is known as the 'Gateway to the West'?", ["Turkey", "Morocco", "Egypt", "Spain"], 0),
+    ]
+
+    # Fill up to 200 by adding slightly varied or new common knowledge questions
+    final_questions = []
+    current_id = 401
+    
+    for q_text, opts, correct_idx in topics_data:
+        final_questions.append({
+            "id": current_id,
+            "category": "Geography",
+            "question": q_text,
+            "options": opts,
+            "correctIndex": correct_idx
+        })
+        current_id += 1
+        if current_id > 600: break
+
+    # If short, add remaining questions (logic to handle up to 200)
+    # Note: The topics_data already has exactly 200 items in total across the blocks.
+    # Block 1 (States): 25
+    # Block 2 (Capitals): 30
+    # Block 3 (Rivers): 30
+    # Block 4 (Mountains): 25
+    # Block 5 (Oceans): 25
+    # Block 6 (Countries/General): 65
+    # Total = 25+30+30+25+25+65 = 200.
+
+    return final_questions
+
+questions_list = generate_geography_questions()
+print(json.dumps(questions_list, indent=2))
+
+
+```
+```text?code_stdout&code_event_index=1
+[
+  {
+    "id": 401,
+    "category": "Geography",
+    "question": "What is the capital of Himachal Pradesh?",
+    "options": [
+      "Shimla",
+      "Manali",
+      "Dharamshala",
+      "Solan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 402,
+    "category": "Geography",
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": [
+      "Punjab",
+      "Haryana",
+      "Uttar Pradesh",
+      "Bihar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 403,
+    "category": "Geography",
+    "question": "Dispur is the capital city of which Indian state?",
+    "options": [
+      "Assam",
+      "Meghalaya",
+      "Nagaland",
+      "Sikkim"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 404,
+    "category": "Geography",
+    "question": "Which is the largest state in India by area?",
+    "options": [
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 405,
+    "category": "Geography",
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 406,
+    "category": "Geography",
+    "question": "Panaji is the capital of which state?",
+    "options": [
+      "Goa",
+      "Gujarat",
+      "Maharashtra",
+      "Kerala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 407,
+    "category": "Geography",
+    "question": "Which state has the longest coastline in India?",
+    "options": [
+      "Gujarat",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 408,
+    "category": "Geography",
+    "question": "Itanagar is the capital of which North-Eastern state?",
+    "options": [
+      "Arunachal Pradesh",
+      "Mizoram",
+      "Tripura",
+      "Manipur"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 409,
+    "category": "Geography",
+    "question": "Which Indian state shares borders with three countries: Nepal, Bhutan, and China?",
+    "options": [
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Uttarakhand",
+      "West Bengal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 410,
+    "category": "Geography",
+    "question": "What is the capital of Telangana?",
+    "options": [
+      "Hyderabad",
+      "Warangal",
+      "Secunderabad",
+      "Nizamabad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 411,
+    "category": "Geography",
+    "question": "Which state is home to the Khasi and Jaintia hills?",
+    "options": [
+      "Meghalaya",
+      "Assam",
+      "Mizoram",
+      "Nagaland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 412,
+    "category": "Geography",
+    "question": "Which is the smallest state of India by area?",
+    "options": [
+      "Goa",
+      "Sikkim",
+      "Tripura",
+      "Nagaland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 413,
+    "category": "Geography",
+    "question": "Raipur is the capital of which state?",
+    "options": [
+      "Chhattisgarh",
+      "Jharkhand",
+      "Uttarakhand",
+      "Odisha"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 414,
+    "category": "Geography",
+    "question": "Which state is known as the 'Soya Region' of India?",
+    "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Punjab",
+      "Bihar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 415,
+    "category": "Geography",
+    "question": "In which state is the Kaziranga National Park located?",
+    "options": [
+      "Assam",
+      "West Bengal",
+      "Odisha",
+      "Bihar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 416,
+    "category": "Geography",
+    "question": "What is the capital of Jharkhand?",
+    "options": [
+      "Ranchi",
+      "Jamshedpur",
+      "Dhanbad",
+      "Bokaro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 417,
+    "category": "Geography",
+    "question": "Which state was bifurcated to create the state of Uttarakhand?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Bihar",
+      "Punjab"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 418,
+    "category": "Geography",
+    "question": "Which state has the highest literacy rate in India?",
+    "options": [
+      "Kerala",
+      "Mizoram",
+      "Goa",
+      "Tamil Nadu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 419,
+    "category": "Geography",
+    "question": "Amaravati is the proposed capital of which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 420,
+    "category": "Geography",
+    "question": "Which state is known for the 'Sunderbans' delta?",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 421,
+    "category": "Geography",
+    "question": "What is the capital of Manipur?",
+    "options": [
+      "Imphal",
+      "Kohima",
+      "Aizawl",
+      "Agartala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 422,
+    "category": "Geography",
+    "question": "Which state is the leading producer of Jute in India?",
+    "options": [
+      "West Bengal",
+      "Assam",
+      "Bihar",
+      "Odisha"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 423,
+    "category": "Geography",
+    "question": "Which state is known as the 'Egg Bowl of Asia'?",
+    "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 424,
+    "category": "Geography",
+    "question": "Aizawl is the capital of which state?",
+    "options": [
+      "Mizoram",
+      "Nagaland",
+      "Manipur",
+      "Tripura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 425,
+    "category": "Geography",
+    "question": "Which state is separated from Sri Lanka by the Palk Strait?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 426,
+    "category": "Geography",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 427,
+    "category": "Geography",
+    "question": "Which city is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 428,
+    "category": "Geography",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Hiroshima"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 429,
+    "category": "Geography",
+    "question": "Cairo is the capital of which country?",
+    "options": [
+      "Egypt",
+      "Sudan",
+      "Morocco",
+      "Libya"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 430,
+    "category": "Geography",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Brasilia",
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Salvador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 431,
+    "category": "Geography",
+    "question": "Reykjavik is the capital of which island nation?",
+    "options": [
+      "Iceland",
+      "Greenland",
+      "Ireland",
+      "Finland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 432,
+    "category": "Geography",
+    "question": "What is the capital of Russia?",
+    "options": [
+      "Moscow",
+      "Saint Petersburg",
+      "Novosibirsk",
+      "Yekaterinburg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 433,
+    "category": "Geography",
+    "question": "Bangkok is the capital of which country?",
+    "options": [
+      "Thailand",
+      "Vietnam",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 434,
+    "category": "Geography",
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Berlin",
+      "Munich",
+      "Frankfurt",
+      "Hamburg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 435,
+    "category": "Geography",
+    "question": "Paris is the capital of which country?",
+    "options": [
+      "France",
+      "Italy",
+      "Spain",
+      "Germany"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 436,
+    "category": "Geography",
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Seoul",
+      "Busan",
+      "Incheon",
+      "Daegu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 437,
+    "category": "Geography",
+    "question": "Nairobi is the capital of which African country?",
+    "options": [
+      "Kenya",
+      "Ethiopia",
+      "Tanzania",
+      "Uganda"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 438,
+    "category": "Geography",
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Rome",
+      "Milan",
+      "Venice",
+      "Florence"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 439,
+    "category": "Geography",
+    "question": "Ankara is the capital of which country?",
+    "options": [
+      "Turkey",
+      "Greece",
+      "Syria",
+      "Iraq"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 440,
+    "category": "Geography",
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Buenos Aires",
+      "Cordoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 441,
+    "category": "Geography",
+    "question": "Lisbon is the capital of which country?",
+    "options": [
+      "Portugal",
+      "Spain",
+      "Greece",
+      "Italy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 442,
+    "category": "Geography",
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Riyadh",
+      "Jeddah",
+      "Mecca",
+      "Medina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 443,
+    "category": "Geography",
+    "question": "Athens is the capital of which country?",
+    "options": [
+      "Greece",
+      "Italy",
+      "Turkey",
+      "Egypt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 444,
+    "category": "Geography",
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Wellington",
+      "Auckland",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 445,
+    "category": "Geography",
+    "question": "Stockholm is the capital of which country?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Denmark"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 446,
+    "category": "Geography",
+    "question": "What is the capital of Mexico?",
+    "options": [
+      "Mexico City",
+      "Cancun",
+      "Guadalajara",
+      "Monterrey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 447,
+    "category": "Geography",
+    "question": "Beijing is the capital of which country?",
+    "options": [
+      "China",
+      "Japan",
+      "Mongolia",
+      "Vietnam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 448,
+    "category": "Geography",
+    "question": "What is the capital of South Africa?",
+    "options": [
+      "Pretoria",
+      "Cape Town",
+      "Johannesburg",
+      "Durban"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 449,
+    "category": "Geography",
+    "question": "Dublin is the capital of which country?",
+    "options": [
+      "Ireland",
+      "United Kingdom",
+      "Scotland",
+      "Wales"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 450,
+    "category": "Geography",
+    "question": "What is the capital of Indonesia?",
+    "options": [
+      "Jakarta",
+      "Bali",
+      "Surabaya",
+      "Bandung"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 451,
+    "category": "Geography",
+    "question": "Oslo is the capital of which country?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Denmark",
+      "Finland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 452,
+    "category": "Geography",
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Madrid",
+      "Barcelona",
+      "Valencia",
+      "Seville"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 453,
+    "category": "Geography",
+    "question": "Hanoi is the capital of which country?",
+    "options": [
+      "Vietnam",
+      "Laos",
+      "Cambodia",
+      "Thailand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 454,
+    "category": "Geography",
+    "question": "What is the capital of Switzerland?",
+    "options": [
+      "Bern",
+      "Zurich",
+      "Geneva",
+      "Basel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 455,
+    "category": "Geography",
+    "question": "Manila is the capital of which country?",
+    "options": [
+      "Philippines",
+      "Malaysia",
+      "Thailand",
+      "Indonesia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 456,
+    "category": "Geography",
+    "question": "Which is the longest river in the world?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 457,
+    "category": "Geography",
+    "question": "The Amazon River flows through which continent?",
+    "options": [
+      "South America",
+      "Africa",
+      "Asia",
+      "North America"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 458,
+    "category": "Geography",
+    "question": "Which river is known as the 'Ganga of the South' in India?",
+    "options": [
+      "Kaveri",
+      "Godavari",
+      "Krishna",
+      "Narmada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 459,
+    "category": "Geography",
+    "question": "Which river flows through London?",
+    "options": [
+      "Thames",
+      "Seine",
+      "Danube",
+      "Rhine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 460,
+    "category": "Geography",
+    "question": "What is the longest river in Asia?",
+    "options": [
+      "Yangtze",
+      "Yellow River",
+      "Mekong",
+      "Ganges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 461,
+    "category": "Geography",
+    "question": "The Victoria Falls are located on which river?",
+    "options": [
+      "Zambezi",
+      "Nile",
+      "Congo",
+      "Niger"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 462,
+    "category": "Geography",
+    "question": "Which river forms the boundary between USA and Mexico?",
+    "options": [
+      "Rio Grande",
+      "Mississippi",
+      "Colorado",
+      "Missouri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 463,
+    "category": "Geography",
+    "question": "Which is the largest freshwater lake in the world by surface area?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Baikal",
+      "Lake Michigan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 464,
+    "category": "Geography",
+    "question": "Which river is known as the 'Yellow River' in China?",
+    "options": [
+      "Huang He",
+      "Yangtze",
+      "Xi Jiang",
+      "Mekong"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 465,
+    "category": "Geography",
+    "question": "The city of Cairo stands on the banks of which river?",
+    "options": [
+      "Nile",
+      "Niger",
+      "Congo",
+      "Zambezi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 466,
+    "category": "Geography",
+    "question": "Which is the deepest lake in the world?",
+    "options": [
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Caspian Sea",
+      "Lake Vostok"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 467,
+    "category": "Geography",
+    "question": "The Danube River flows into which sea?",
+    "options": [
+      "Black Sea",
+      "Mediterranean Sea",
+      "Caspian Sea",
+      "North Sea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 468,
+    "category": "Geography",
+    "question": "Which Indian river is known as the 'Sorrows of Bihar'?",
+    "options": [
+      "Kosi",
+      "Gandak",
+      "Son",
+      "Damodar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 469,
+    "category": "Geography",
+    "question": "The Murray River is located in which country?",
+    "options": [
+      "Australia",
+      "Canada",
+      "USA",
+      "New Zealand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 470,
+    "category": "Geography",
+    "question": "Which river flows through Paris?",
+    "options": [
+      "Seine",
+      "Loire",
+      "Rhone",
+      "Garonne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 471,
+    "category": "Geography",
+    "question": "What is the longest river in Europe?",
+    "options": [
+      "Volga",
+      "Danube",
+      "Rhine",
+      "Elbe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 472,
+    "category": "Geography",
+    "question": "Which is the largest lake in Africa?",
+    "options": [
+      "Lake Victoria",
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Chad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 473,
+    "category": "Geography",
+    "question": "The river Tigris is associated with which ancient civilization?",
+    "options": [
+      "Mesopotamia",
+      "Egypt",
+      "Indus Valley",
+      "China"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 474,
+    "category": "Geography",
+    "question": "Which is the only river in India that flows through a rift valley?",
+    "options": [
+      "Narmada",
+      "Tapi",
+      "Godavari",
+      "Krishna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 475,
+    "category": "Geography",
+    "question": "The Rhine River flows primarily through which country?",
+    "options": [
+      "Germany",
+      "France",
+      "Austria",
+      "Switzerland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 476,
+    "category": "Geography",
+    "question": "Which river crosses the Equator twice?",
+    "options": [
+      "Congo",
+      "Nile",
+      "Amazon",
+      "Zambezi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 477,
+    "category": "Geography",
+    "question": "What is the largest artificial lake in the world by surface area?",
+    "options": [
+      "Lake Volta",
+      "Lake Kariba",
+      "Lake Mead",
+      "Lake Nasser"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 478,
+    "category": "Geography",
+    "question": "Which river flows through New York City?",
+    "options": [
+      "Hudson",
+      "Potomac",
+      "Delaware",
+      "Charles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 479,
+    "category": "Geography",
+    "question": "The Great Salt Lake is located in which US state?",
+    "options": [
+      "Utah",
+      "Nevada",
+      "Arizona",
+      "California"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 480,
+    "category": "Geography",
+    "question": "Which river is known as the 'Father of Waters'?",
+    "options": [
+      "Mississippi",
+      "Amazon",
+      "Nile",
+      "Yangtze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 481,
+    "category": "Geography",
+    "question": "The Irrawaddy River flows through which country?",
+    "options": [
+      "Myanmar",
+      "Thailand",
+      "Vietnam",
+      "Laos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 482,
+    "category": "Geography",
+    "question": "Which lake is shared by Peru and Bolivia?",
+    "options": [
+      "Lake Titicaca",
+      "Lake Poopo",
+      "Lake Maracaibo",
+      "Lake Nicaragua"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 483,
+    "category": "Geography",
+    "question": "The Brahmaputra river is known as what in Tibet?",
+    "options": [
+      "Tsangpo",
+      "Dihang",
+      "Jamuna",
+      "Padma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 484,
+    "category": "Geography",
+    "question": "Which river passes through the Grand Canyon?",
+    "options": [
+      "Colorado",
+      "Rio Grande",
+      "Snake",
+      "Columbia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 485,
+    "category": "Geography",
+    "question": "The Dead Sea is located between which two countries?",
+    "options": [
+      "Jordan and Israel",
+      "Egypt and Sudan",
+      "Syria and Iraq",
+      "Turkey and Greece"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 486,
+    "category": "Geography",
+    "question": "Which is the highest mountain peak in the world?",
+    "options": [
+      "Mount Everest",
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 487,
+    "category": "Geography",
+    "question": "The Andes mountain range is located in which continent?",
+    "options": [
+      "South America",
+      "Europe",
+      "Asia",
+      "Africa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 488,
+    "category": "Geography",
+    "question": "Which is the highest mountain peak in India?",
+    "options": [
+      "Kanchenjunga",
+      "Nanda Devi",
+      "Anamudi",
+      "Doddabetta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 489,
+    "category": "Geography",
+    "question": "The Atlas Mountains are located in which continent?",
+    "options": [
+      "Africa",
+      "Europe",
+      "North America",
+      "South America"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 490,
+    "category": "Geography",
+    "question": "Which is the longest mountain range in the world?",
+    "options": [
+      "Andes",
+      "Rockies",
+      "Himalayas",
+      "Urals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 491,
+    "category": "Geography",
+    "question": "In which country are the Southern Alps located?",
+    "options": [
+      "New Zealand",
+      "Switzerland",
+      "Australia",
+      "Austria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 492,
+    "category": "Geography",
+    "question": "Mount Kilimanjaro is the highest point of which continent?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Europe"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 493,
+    "category": "Geography",
+    "question": "Which mountain range separates Europe and Asia?",
+    "options": [
+      "Ural Mountains",
+      "Alps",
+      "Pyrenees",
+      "Carpathians"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 494,
+    "category": "Geography",
+    "question": "The Deccan Plateau is located in which country?",
+    "options": [
+      "India",
+      "China",
+      "Australia",
+      "Brazil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 495,
+    "category": "Geography",
+    "question": "Which is the highest peak in the Alps?",
+    "options": [
+      "Mont Blanc",
+      "Matterhorn",
+      "Mount Elbrus",
+      "Jungfrau"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 496,
+    "category": "Geography",
+    "question": "The Rocky Mountains are found in which continent?",
+    "options": [
+      "North America",
+      "South America",
+      "Europe",
+      "Asia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 497,
+    "category": "Geography",
+    "question": "Which is the highest peak in Africa?",
+    "options": [
+      "Mount Kilimanjaro",
+      "Mount Kenya",
+      "Mount Stanley",
+      "Mount Meru"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 498,
+    "category": "Geography",
+    "question": "The Tibetan Plateau is often called what?",
+    "options": [
+      "Roof of the World",
+      "Garden of the World",
+      "Land of Snow",
+      "Golden Plateau"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 499,
+    "category": "Geography",
+    "question": "Mount Vesuvius is an active volcano in which country?",
+    "options": [
+      "Italy",
+      "Greece",
+      "Japan",
+      "Iceland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 500,
+    "category": "Geography",
+    "question": "Which mountain range is located in the eastern part of Australia?",
+    "options": [
+      "Great Dividing Range",
+      "Blue Mountains",
+      "Himalayas",
+      "Appalachians"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 501,
+    "category": "Geography",
+    "question": "The Pyrenees mountains form the border between which two countries?",
+    "options": [
+      "France and Spain",
+      "Germany and France",
+      "Italy and Switzerland",
+      "Norway and Sweden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 502,
+    "category": "Geography",
+    "question": "Which is the highest peak in the Western Ghats of India?",
+    "options": [
+      "Anamudi",
+      "Doddabetta",
+      "Mahendragiri",
+      "Kalsubai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 503,
+    "category": "Geography",
+    "question": "Mount Fuji is a famous landmark of which country?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Taiwan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 504,
+    "category": "Geography",
+    "question": "The Appalachian Mountains are in which country?",
+    "options": [
+      "USA",
+      "Canada",
+      "UK",
+      "Australia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 505,
+    "category": "Geography",
+    "question": "Which is the highest peak in North America?",
+    "options": [
+      "Denali",
+      "Mount Logan",
+      "Mount Rainier",
+      "Mount Whitney"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 506,
+    "category": "Geography",
+    "question": "The Karakoram Range is located between which regions?",
+    "options": [
+      "India and Pakistan",
+      "India and China",
+      "Pakistan and China",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    ...
+```
+[
+  {
+    "id": 401,
+    "category": "Geography",
+    "question": "What is the capital of Himachal Pradesh?",
+    "options": ["Shimla", "Manali", "Dharamshala", "Solan"],
+    "correctIndex": 0
+  },
+  {
+    "id": 402,
+    "category": "Geography",
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"],
+    "correctIndex": 0
+  },
+  {
+    "id": 403,
+    "category": "Geography",
+    "question": "Dispur is the capital city of which Indian state?",
+    "options": ["Assam", "Meghalaya", "Nagaland", "Sikkim"],
+    "correctIndex": 0
+  },
+  {
+    "id": 404,
+    "category": "Geography",
+    "question": "Which is the largest state in India by area?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"],
+    "correctIndex": 0
+  },
+  {
+    "id": 405,
+    "category": "Geography",
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+    "correctIndex": 0
+  },
+  {
+    "id": 406,
+    "category": "Geography",
+    "question": "Panaji is the capital of which state?",
+    "options": ["Goa", "Gujarat", "Maharashtra", "Kerala"],
+    "correctIndex": 0
+  },
+  {
+    "id": 407,
+    "category": "Geography",
+    "question": "Which state has the longest coastline in India?",
+    "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+    "correctIndex": 0
+  },
+  {
+    "id": 408,
+    "category": "Geography",
+    "question": "Itanagar is the capital of which North-Eastern state?",
+    "options": ["Arunachal Pradesh", "Mizoram", "Tripura", "Manipur"],
+    "correctIndex": 0
+  },
+  {
+    "id": 409,
+    "category": "Geography",
+    "question": "Which Indian state shares borders with three countries: Nepal, Bhutan, and China?",
+    "options": ["Sikkim", "Arunachal Pradesh", "Uttarakhand", "West Bengal"],
+    "correctIndex": 0
+  },
+  {
+    "id": 410,
+    "category": "Geography",
+    "question": "What is the capital of Telangana?",
+    "options": ["Hyderabad", "Warangal", "Secunderabad", "Nizamabad"],
+    "correctIndex": 0
+  },
+  {
+    "id": 411,
+    "category": "Geography",
+    "question": "Which state is home to the Khasi and Jaintia hills?",
+    "options": ["Meghalaya", "Assam", "Mizoram", "Nagaland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 412,
+    "category": "Geography",
+    "question": "Which is the smallest state of India by area?",
+    "options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 413,
+    "category": "Geography",
+    "question": "Raipur is the capital of which state?",
+    "options": ["Chhattisgarh", "Jharkhand", "Uttarakhand", "Odisha"],
+    "correctIndex": 0
+  },
+  {
+    "id": 414,
+    "category": "Geography",
+    "question": "Which state is known as the 'Soya Region' of India?",
+    "options": ["Madhya Pradesh", "Rajasthan", "Punjab", "Bihar"],
+    "correctIndex": 0
+  },
+  {
+    "id": 415,
+    "category": "Geography",
+    "question": "In which state is the Kaziranga National Park located?",
+    "options": ["Assam", "West Bengal", "Odisha", "Bihar"],
+    "correctIndex": 0
+  },
+  {
+    "id": 416,
+    "category": "Geography",
+    "question": "What is the capital of Jharkhand?",
+    "options": ["Ranchi", "Jamshedpur", "Dhanbad", "Bokaro"],
+    "correctIndex": 0
+  },
+  {
+    "id": 417,
+    "category": "Geography",
+    "question": "Which state was bifurcated to create the state of Uttarakhand?",
+    "options": ["Uttar Pradesh", "Madhya Pradesh", "Bihar", "Punjab"],
+    "correctIndex": 0
+  },
+  {
+    "id": 418,
+    "category": "Geography",
+    "question": "Which state has the highest literacy rate in India?",
+    "options": ["Kerala", "Mizoram", "Goa", "Tamil Nadu"],
+    "correctIndex": 0
+  },
+  {
+    "id": 419,
+    "category": "Geography",
+    "question": "Amaravati is the proposed capital of which state?",
+    "options": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
+    "correctIndex": 0
+  },
+  {
+    "id": 420,
+    "category": "Geography",
+    "question": "Which state is known for the 'Sunderbans' delta?",
+    "options": ["West Bengal", "Odisha", "Tamil Nadu", "Kerala"],
+    "correctIndex": 0
+  },
+  {
+    "id": 421,
+    "category": "Geography",
+    "question": "What is the capital of Manipur?",
+    "options": ["Imphal", "Kohima", "Aizawl", "Agartala"],
+    "correctIndex": 0
+  },
+  {
+    "id": 422,
+    "category": "Geography",
+    "question": "Which state is the leading producer of Jute in India?",
+    "options": ["West Bengal", "Assam", "Bihar", "Odisha"],
+    "correctIndex": 0
+  },
+  {
+    "id": 423,
+    "category": "Geography",
+    "question": "Which state is known as the 'Egg Bowl of Asia'?",
+    "options": ["Andhra Pradesh", "Tamil Nadu", "Kerala", "Karnataka"],
+    "correctIndex": 0
+  },
+  {
+    "id": 424,
+    "category": "Geography",
+    "question": "Aizawl is the capital of which state?",
+    "options": ["Mizoram", "Nagaland", "Manipur", "Tripura"],
+    "correctIndex": 0
+  },
+  {
+    "id": 425,
+    "category": "Geography",
+    "question": "Which state is separated from Sri Lanka by the Palk Strait?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+    "correctIndex": 0
+  },
+  {
+    "id": 426,
+    "category": "Geography",
+    "question": "What is the capital of Australia?",
+    "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+    "correctIndex": 0
+  },
+  {
+    "id": 427,
+    "category": "Geography",
+    "question": "Which city is the capital of Canada?",
+    "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "correctIndex": 0
+  },
+  {
+    "id": 428,
+    "category": "Geography",
+    "question": "What is the capital of Japan?",
+    "options": ["Tokyo", "Osaka", "Kyoto", "Hiroshima"],
+    "correctIndex": 0
+  },
+  {
+    "id": 429,
+    "category": "Geography",
+    "question": "Cairo is the capital of which country?",
+    "options": ["Egypt", "Sudan", "Morocco", "Libya"],
+    "correctIndex": 0
+  },
+  {
+    "id": 430,
+    "category": "Geography",
+    "question": "What is the capital of Brazil?",
+    "options": ["Brasilia", "Rio de Janeiro", "Sao Paulo", "Salvador"],
+    "correctIndex": 0
+  },
+  {
+    "id": 431,
+    "category": "Geography",
+    "question": "Reykjavik is the capital of which island nation?",
+    "options": ["Iceland", "Greenland", "Ireland", "Finland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 432,
+    "category": "Geography",
+    "question": "What is the capital of Russia?",
+    "options": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg"],
+    "correctIndex": 0
+  },
+  {
+    "id": 433,
+    "category": "Geography",
+    "question": "Bangkok is the capital of which country?",
+    "options": ["Thailand", "Vietnam", "Malaysia", "Indonesia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 434,
+    "category": "Geography",
+    "question": "What is the capital of Germany?",
+    "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+    "correctIndex": 0
+  },
+  {
+    "id": 435,
+    "category": "Geography",
+    "question": "Paris is the capital of which country?",
+    "options": ["France", "Italy", "Spain", "Germany"],
+    "correctIndex": 0
+  },
+  {
+    "id": 436,
+    "category": "Geography",
+    "question": "What is the capital of South Korea?",
+    "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "correctIndex": 0
+  },
+  {
+    "id": 437,
+    "category": "Geography",
+    "question": "Nairobi is the capital of which African country?",
+    "options": ["Kenya", "Ethiopia", "Tanzania", "Uganda"],
+    "correctIndex": 0
+  },
+  {
+    "id": 438,
+    "category": "Geography",
+    "question": "What is the capital of Italy?",
+    "options": ["Rome", "Milan", "Venice", "Florence"],
+    "correctIndex": 0
+  },
+  {
+    "id": 439,
+    "category": "Geography",
+    "question": "Ankara is the capital of which country?",
+    "options": ["Turkey", "Greece", "Syria", "Iraq"],
+    "correctIndex": 0
+  },
+  {
+    "id": 440,
+    "category": "Geography",
+    "question": "What is the capital of Argentina?",
+    "options": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"],
+    "correctIndex": 0
+  },
+  {
+    "id": 441,
+    "category": "Geography",
+    "question": "Lisbon is the capital of which country?",
+    "options": ["Portugal", "Spain", "Greece", "Italy"],
+    "correctIndex": 0
+  },
+  {
+    "id": 442,
+    "category": "Geography",
+    "question": "What is the capital of Saudi Arabia?",
+    "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+    "correctIndex": 0
+  },
+  {
+    "id": 443,
+    "category": "Geography",
+    "question": "Athens is the capital of which country?",
+    "options": ["Greece", "Italy", "Turkey", "Egypt"],
+    "correctIndex": 0
+  },
+  {
+    "id": 444,
+    "category": "Geography",
+    "question": "What is the capital of New Zealand?",
+    "options": ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+    "correctIndex": 0
+  },
+  {
+    "id": 445,
+    "category": "Geography",
+    "question": "Stockholm is the capital of which country?",
+    "options": ["Sweden", "Norway", "Finland", "Denmark"],
+    "correctIndex": 0
+  },
+  {
+    "id": 446,
+    "category": "Geography",
+    "question": "What is the capital of Mexico?",
+    "options": ["Mexico City", "Cancun", "Guadalajara", "Monterrey"],
+    "correctIndex": 0
+  },
+  {
+    "id": 447,
+    "category": "Geography",
+    "question": "Beijing is the capital of which country?",
+    "options": ["China", "Japan", "Mongolia", "Vietnam"],
+    "correctIndex": 0
+  },
+  {
+    "id": 448,
+    "category": "Geography",
+    "question": "What is the capital of South Africa?",
+    "options": ["Pretoria", "Cape Town", "Johannesburg", "Durban"],
+    "correctIndex": 0
+  },
+  {
+    "id": 449,
+    "category": "Geography",
+    "question": "Dublin is the capital of which country?",
+    "options": ["Ireland", "United Kingdom", "Scotland", "Wales"],
+    "correctIndex": 0
+  },
+  {
+    "id": 450,
+    "category": "Geography",
+    "question": "What is the capital of Indonesia?",
+    "options": ["Jakarta", "Bali", "Surabaya", "Bandung"],
+    "correctIndex": 0
+  },
+  {
+    "id": 451,
+    "category": "Geography",
+    "question": "Oslo is the capital of which country?",
+    "options": ["Norway", "Sweden", "Denmark", "Finland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 452,
+    "category": "Geography",
+    "question": "What is the capital of Spain?",
+    "options": ["Madrid", "Barcelona", "Valencia", "Seville"],
+    "correctIndex": 0
+  },
+  {
+    "id": 453,
+    "category": "Geography",
+    "question": "Hanoi is the capital of which country?",
+    "options": ["Vietnam", "Laos", "Cambodia", "Thailand"],
+    "correctIndex": 0
+  },
+  {
+    "id": 454,
+    "category": "Geography",
+    "question": "What is the capital of Switzerland?",
+    "options": ["Bern", "Zurich", "Geneva", "Basel"],
+    "correctIndex": 0
+  },
+  {
+    "id": 455,
+    "category": "Geography",
+    "question": "Manila is the capital of which country?",
+    "options": ["Philippines", "Malaysia", "Thailand", "Indonesia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 456,
+    "category": "Geography",
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "correctIndex": 0
+  },
+  {
+    "id": 457,
+    "category": "Geography",
+    "question": "The Amazon River flows through which continent?",
+    "options": ["South America", "Africa", "Asia", "North America"],
+    "correctIndex": 0
+  },
+  {
+    "id": 458,
+    "category": "Geography",
+    "question": "Which river is known as the 'Ganga of the South' in India?",
+    "options": ["Kaveri", "Godavari", "Krishna", "Narmada"],
+    "correctIndex": 0
+  },
+  {
+    "id": 459,
+    "category": "Geography",
+    "question": "Which river flows through London?",
+    "options": ["Thames", "Seine", "Danube", "Rhine"],
+    "correctIndex": 0
+  },
+  {
+    "id": 460,
+    "category": "Geography",
+    "question": "What is the longest river in Asia?",
+    "options": ["Yangtze", "Yellow River", "Mekong", "Ganges"],
+    "correctIndex": 0
+  },
+  {
+    "id": 461,
+    "category": "Geography",
+    "question": "The Victoria Falls are located on which river?",
+    "options": ["Zambezi", "Nile", "Congo", "Niger"],
+    "correctIndex": 0
+  },
+  {
+    "id": 462,
+    "category": "Geography",
+    "question": "Which river forms the boundary between USA and Mexico?",
+    "options": ["Rio Grande", "Mississippi", "Colorado", "Missouri"],
+    "correctIndex": 0
+  },
+  {
+    "id": 463,
+    "category": "Geography",
+    "question": "Which is the largest freshwater lake in the world by surface area?",
+    "options": ["Lake Superior", "Lake Victoria", "Lake Baikal", "Lake Michigan"],
+    "correctIndex": 0
+  },
+  {
+    "id": 464,
+    "category": "Geography",
+    "question": "Which river is known as the 'Yellow River' in China?",
+    "options": ["Huang He", "Yangtze", "Xi Jiang", "Mekong"],
+    "correctIndex": 0
+  },
+  {
+    "id": 465,
+    "category": "Geography",
+    "question": "The city of Cairo stands on the banks of which river?",
+    "options": ["Nile", "Niger", "Congo", "Zambezi"],
+    "correctIndex": 0
+  },
+  {
+    "id": 466,
+    "category": "Geography",
+    "question": "Which is the deepest lake in the world?",
+    "options": ["Lake Baikal", "Lake Tanganyika", "Caspian Sea", "Lake Vostok"],
+    "correctIndex": 0
+  },
+  {
+    "id": 467,
+    "category": "Geography",
+    "question": "The Danube River flows into which sea?",
+    "options": ["Black Sea", "Mediterranean Sea", "Caspian Sea", "North Sea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 468,
+    "category": "Geography",
+    "question": "Which Indian river is known as the 'Sorrows of Bihar'?",
+    "options": ["Kosi", "Gandak", "Son", "Damodar"],
+    "correctIndex": 0
+  },
+  {
+    "id": 469,
+    "category": "Geography",
+    "question": "The Murray River is located in which country?",
+    "options": ["Australia", "Canada", "USA", "New Zealand"],
+    "correctIndex": 0
+  },
+  {
+    "id": 470,
+    "category": "Geography",
+    "question": "Which river flows through Paris?",
+    "options": ["Seine", "Loire", "Rhone", "Garonne"],
+    "correctIndex": 0
+  },
+  {
+    "id": 471,
+    "category": "Geography",
+    "question": "What is the longest river in Europe?",
+    "options": ["Volga", "Danube", "Rhine", "Elbe"],
+    "correctIndex": 0
+  },
+  {
+    "id": 472,
+    "category": "Geography",
+    "question": "Which is the largest lake in Africa?",
+    "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+    "correctIndex": 0
+  },
+  {
+    "id": 473,
+    "category": "Geography",
+    "question": "The river Tigris is associated with which ancient civilization?",
+    "options": ["Mesopotamia", "Egypt", "Indus Valley", "China"],
+    "correctIndex": 0
+  },
+  {
+    "id": 474,
+    "category": "Geography",
+    "question": "Which is the only river in India that flows through a rift valley?",
+    "options": ["Narmada", "Tapi", "Godavari", "Krishna"],
+    "correctIndex": 0
+  },
+  {
+    "id": 475,
+    "category": "Geography",
+    "question": "The Rhine River flows primarily through which country?",
+    "options": ["Germany", "France", "Austria", "Switzerland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 476,
+    "category": "Geography",
+    "question": "Which river crosses the Equator twice?",
+    "options": ["Congo", "Nile", "Amazon", "Zambezi"],
+    "correctIndex": 0
+  },
+  {
+    "id": 477,
+    "category": "Geography",
+    "question": "What is the largest artificial lake in the world by surface area?",
+    "options": ["Lake Volta", "Lake Kariba", "Lake Mead", "Lake Nasser"],
+    "correctIndex": 0
+  },
+  {
+    "id": 478,
+    "category": "Geography",
+    "question": "Which river flows through New York City?",
+    "options": ["Hudson", "Potomac", "Delaware", "Charles"],
+    "correctIndex": 0
+  },
+  {
+    "id": 479,
+    "category": "Geography",
+    "question": "The Great Salt Lake is located in which US state?",
+    "options": ["Utah", "Nevada", "Arizona", "California"],
+    "correctIndex": 0
+  },
+  {
+    "id": 480,
+    "category": "Geography",
+    "question": "Which river is known as the 'Father of Waters'?",
+    "options": ["Mississippi", "Amazon", "Nile", "Yangtze"],
+    "correctIndex": 0
+  },
+  {
+    "id": 481,
+    "category": "Geography",
+    "question": "The Irrawaddy River flows through which country?",
+    "options": ["Myanmar", "Thailand", "Vietnam", "Laos"],
+    "correctIndex": 0
+  },
+  {
+    "id": 482,
+    "category": "Geography",
+    "question": "Which lake is shared by Peru and Bolivia?",
+    "options": ["Lake Titicaca", "Lake Poopo", "Lake Maracaibo", "Lake Nicaragua"],
+    "correctIndex": 0
+  },
+  {
+    "id": 483,
+    "category": "Geography",
+    "question": "The Brahmaputra river is known as what in Tibet?",
+    "options": ["Tsangpo", "Dihang", "Jamuna", "Padma"],
+    "correctIndex": 0
+  },
+  {
+    "id": 484,
+    "category": "Geography",
+    "question": "Which river passes through the Grand Canyon?",
+    "options": ["Colorado", "Rio Grande", "Snake", "Columbia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 485,
+    "category": "Geography",
+    "question": "The Dead Sea is located between which two countries?",
+    "options": ["Jordan and Israel", "Egypt and Sudan", "Syria and Iraq", "Turkey and Greece"],
+    "correctIndex": 0
+  },
+  {
+    "id": 486,
+    "category": "Geography",
+    "question": "Which is the highest mountain peak in the world?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "correctIndex": 0
+  },
+  {
+    "id": 487,
+    "category": "Geography",
+    "question": "The Andes mountain range is located in which continent?",
+    "options": ["South America", "Europe", "Asia", "Africa"],
+    "correctIndex": 0
+  },
+  {
+    "id": 488,
+    "category": "Geography",
+    "question": "Which is the highest mountain peak in India?",
+    "options": ["Kanchenjunga", "Nanda Devi", "Anamudi", "Doddabetta"],
+    "correctIndex": 0
+  },
+  {
+    "id": 489,
+    "category": "Geography",
+    "question": "The Atlas Mountains are located in which continent?",
+    "options": ["Africa", "Europe", "North America", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "id": 490,
+    "category": "Geography",
+    "question": "Which is the longest mountain range in the world?",
+    "options": ["Andes", "Rockies", "Himalayas", "Urals"],
+    "correctIndex": 0
+  },
+  {
+    "id": 491,
+    "category": "Geography",
+    "question": "In which country are the Southern Alps located?",
+    "options": ["New Zealand", "Switzerland", "Australia", "Austria"],
+    "correctIndex": 0
+  },
+  {
+    "id": 492,
+    "category": "Geography",
+    "question": "Mount Kilimanjaro is the highest point of which continent?",
+    "options": ["Africa", "Asia", "South America", "Europe"],
+    "correctIndex": 0
+  },
+  {
+    "id": 493,
+    "category": "Geography",
+    "question": "Which mountain range separates Europe and Asia?",
+    "options": ["Ural Mountains", "Alps", "Pyrenees", "Carpathians"],
+    "correctIndex": 0
+  },
+  {
+    "id": 494,
+    "category": "Geography",
+    "question": "The Deccan Plateau is located in which country?",
+    "options": ["India", "China", "Australia", "Brazil"],
+    "correctIndex": 0
+  },
+  {
+    "id": 495,
+    "category": "Geography",
+    "question": "Which is the highest peak in the Alps?",
+    "options": ["Mont Blanc", "Matterhorn", "Mount Elbrus", "Jungfrau"],
+    "correctIndex": 0
+  },
+  {
+    "id": 496,
+    "category": "Geography",
+    "question": "The Rocky Mountains are found in which continent?",
+    "options": ["North America", "South America", "Europe", "Asia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 497,
+    "category": "Geography",
+    "question": "Which is the highest peak in Africa?",
+    "options": ["Mount Kilimanjaro", "Mount Kenya", "Mount Stanley", "Mount Meru"],
+    "correctIndex": 0
+  },
+  {
+    "id": 498,
+    "category": "Geography",
+    "question": "The Tibetan Plateau is often called what?",
+    "options": ["Roof of the World", "Garden of the World", "Land of Snow", "Golden Plateau"],
+    "correctIndex": 0
+  },
+  {
+    "id": 499,
+    "category": "Geography",
+    "question": "Mount Vesuvius is an active volcano in which country?",
+    "options": ["Italy", "Greece", "Japan", "Iceland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 500,
+    "category": "Geography",
+    "question": "Which mountain range is located in the eastern part of Australia?",
+    "options": ["Great Dividing Range", "Blue Mountains", "Himalayas", "Appalachians"],
+    "correctIndex": 0
+  },
+  {
+    "id": 501,
+    "category": "Geography",
+    "question": "The Pyrenees mountains form the border between which two countries?",
+    "options": ["France and Spain", "Germany and France", "Italy and Switzerland", "Norway and Sweden"],
+    "correctIndex": 0
+  },
+  {
+    "id": 502,
+    "category": "Geography",
+    "question": "Which is the highest peak in the Western Ghats of India?",
+    "options": ["Anamudi", "Doddabetta", "Mahendragiri", "Kalsubai"],
+    "correctIndex": 0
+  },
+  {
+    "id": 503,
+    "category": "Geography",
+    "question": "Mount Fuji is a famous landmark of which country?",
+    "options": ["Japan", "China", "South Korea", "Taiwan"],
+    "correctIndex": 0
+  },
+  {
+    "id": 504,
+    "category": "Geography",
+    "question": "The Appalachian Mountains are in which country?",
+    "options": ["USA", "Canada", "UK", "Australia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 505,
+    "category": "Geography",
+    "question": "Which is the highest peak in North America?",
+    "options": ["Denali", "Mount Logan", "Mount Rainier", "Mount Whitney"],
+    "correctIndex": 0
+  },
+  {
+    "id": 506,
+    "category": "Geography",
+    "question": "The Karakoram Range is located between which regions?",
+    "options": ["India and Pakistan", "India and China", "Pakistan and China", "All of the above"],
+    "correctIndex": 3
+  },
+  {
+    "id": 507,
+    "category": "Geography",
+    "question": "Which of these is a fold mountain?",
+    "options": ["Himalayas", "Black Forest", "Vindhyas", "Vosges"],
+    "correctIndex": 0
+  },
+  {
+    "id": 508,
+    "category": "Geography",
+    "question": "The Drakensberg mountains are located in which country?",
+    "options": ["South Africa", "Kenya", "Ethiopia", "Morocco"],
+    "correctIndex": 0
+  },
+  {
+    "id": 509,
+    "category": "Geography",
+    "question": "Which is the highest plateau in the world?",
+    "options": ["Tibetan Plateau", "Deccan Plateau", "Colorado Plateau", "Altiplano"],
+    "correctIndex": 0
+  },
+  {
+    "id": 510,
+    "category": "Geography",
+    "question": "Mount Aconcagua is the highest peak in which mountain range?",
+    "options": ["Andes", "Rockies", "Alps", "Himalayas"],
+    "correctIndex": 0
+  },
+  {
+    "id": 511,
+    "category": "Geography",
+    "question": "Which is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 512,
+    "category": "Geography",
+    "question": "The deepest point on Earth, the Mariana Trench, is in which ocean?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 513,
+    "category": "Geography",
+    "question": "Which ocean is 'S' shaped?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 514,
+    "category": "Geography",
+    "question": "Which is the smallest ocean in the world?",
+    "options": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 515,
+    "category": "Geography",
+    "question": "Greenland, the largest island, is part of which country?",
+    "options": ["Denmark", "Norway", "Canada", "Iceland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 516,
+    "category": "Geography",
+    "question": "The Great Barrier Reef is off the coast of which country?",
+    "options": ["Australia", "Indonesia", "Papua New Guinea", "Philippines"],
+    "correctIndex": 0
+  },
+  {
+    "id": 517,
+    "category": "Geography",
+    "question": "Which sea separates Europe from Africa?",
+    "options": ["Mediterranean Sea", "Red Sea", "Black Sea", "Caspian Sea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 518,
+    "category": "Geography",
+    "question": "Which is the largest sea in the world?",
+    "options": ["Philippine Sea", "Coral Sea", "Arabian Sea", "Caribbean Sea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 519,
+    "category": "Geography",
+    "question": "Madagascar is an island nation in which ocean?",
+    "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 520,
+    "category": "Geography",
+    "question": "The Bermuda Triangle is located in which ocean?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 521,
+    "category": "Geography",
+    "question": "Which island group is known as the 'Emerald Isle'?",
+    "options": ["Ireland", "Great Britain", "Iceland", "Sri Lanka"],
+    "correctIndex": 0
+  },
+  {
+    "id": 522,
+    "category": "Geography",
+    "question": "The Panama Canal connects which two oceans?",
+    "options": ["Atlantic and Pacific", "Atlantic and Indian", "Pacific and Indian", "Arctic and Atlantic"],
+    "correctIndex": 0
+  },
+  {
+    "id": 523,
+    "category": "Geography",
+    "question": "Which country has the most islands in the world?",
+    "options": ["Sweden", "Norway", "Finland", "Canada"],
+    "correctIndex": 0
+  },
+  {
+    "id": 524,
+    "category": "Geography",
+    "question": "The Persian Gulf is located between which two regions?",
+    "options": ["Arabian Peninsula and Iran", "Africa and Asia", "India and Pakistan", "Europe and Asia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 525,
+    "category": "Geography",
+    "question": "Which is the largest island in the Indian Ocean?",
+    "options": ["Madagascar", "Sri Lanka", "Sumatra", "Java"],
+    "correctIndex": 0
+  },
+  {
+    "id": 526,
+    "category": "Geography",
+    "question": "The Caribbean Sea is part of which ocean?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Southern Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 527,
+    "category": "Geography",
+    "question": "Which strait separates Australia and Tasmania?",
+    "options": ["Bass Strait", "Torres Strait", "Cook Strait", "Malacca Strait"],
+    "correctIndex": 0
+  },
+  {
+    "id": 528,
+    "category": "Geography",
+    "question": "The Maldives is located in which ocean?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 529,
+    "category": "Geography",
+    "question": "Which sea is the saltiest in the world?",
+    "options": ["Red Sea", "Dead Sea", "Mediterranean Sea", "Caspian Sea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 530,
+    "category": "Geography",
+    "question": "The Gal\u00e1pagos Islands belong to which country?",
+    "options": ["Ecuador", "Peru", "Chile", "Colombia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 531,
+    "category": "Geography",
+    "question": "Which ocean surrounds the continent of Antarctica?",
+    "options": ["Southern Ocean", "Indian Ocean", "Pacific Ocean", "Atlantic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 532,
+    "category": "Geography",
+    "question": "Honshu is the largest island of which country?",
+    "options": ["Japan", "South Korea", "China", "Philippines"],
+    "correctIndex": 0
+  },
+  {
+    "id": 533,
+    "category": "Geography",
+    "question": "The Strait of Gibraltar connects the Atlantic Ocean with which sea?",
+    "options": ["Mediterranean Sea", "North Sea", "Baltic Sea", "Black Sea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 534,
+    "category": "Geography",
+    "question": "Which island is shared by Malaysia, Indonesia, and Brunei?",
+    "options": ["Borneo", "New Guinea", "Sumatra", "Java"],
+    "correctIndex": 0
+  },
+  {
+    "id": 535,
+    "category": "Geography",
+    "question": "The Java Trench is the deepest part of which ocean?",
+    "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correctIndex": 0
+  },
+  {
+    "id": 536,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "Norway", "Australia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 537,
+    "category": "Geography",
+    "question": "Which is the largest country in the world by area?",
+    "options": ["Russia", "Canada", "USA", "China"],
+    "correctIndex": 0
+  },
+  {
+    "id": 538,
+    "category": "Geography",
+    "question": "Which country has the largest population in the world (as of 2024)?",
+    "options": ["India", "China", "USA", "Indonesia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 539,
+    "category": "Geography",
+    "question": "Which country is also a continent?",
+    "options": ["Australia", "Antarctica", "Africa", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "id": 540,
+    "category": "Geography",
+    "question": "The 'Gobi Desert' is located primarily in which two countries?",
+    "options": ["Mongolia and China", "India and Pakistan", "Egypt and Sudan", "Chile and Peru"],
+    "correctIndex": 0
+  },
+  {
+    "id": 541,
+    "category": "Geography",
+    "question": "Which is the smallest country in the world?",
+    "options": ["Vatican City", "Monaco", "Nauru", "San Marino"],
+    "correctIndex": 0
+  },
+  {
+    "id": 542,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": ["Finland", "Sweden", "Norway", "Canada"],
+    "correctIndex": 0
+  },
+  {
+    "id": 543,
+    "category": "Geography",
+    "question": "The 'Sahara Desert' is located in which continent?",
+    "options": ["Africa", "Asia", "Australia", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "id": 544,
+    "category": "Geography",
+    "question": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
+    "options": ["Equator", "Prime Meridian", "Tropic of Cancer", "Tropic of Capricorn"],
+    "correctIndex": 0
+  },
+  {
+    "id": 545,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Iceland", "Canada"],
+    "correctIndex": 0
+  },
+  {
+    "id": 546,
+    "category": "Geography",
+    "question": "The 'Great Wall' is a famous landmark of which country?",
+    "options": ["China", "India", "Germany", "Mexico"],
+    "correctIndex": 0
+  },
+  {
+    "id": 547,
+    "category": "Geography",
+    "question": "Which is the largest desert in the world?",
+    "options": ["Antarctic Desert", "Arctic Desert", "Sahara Desert", "Gobi Desert"],
+    "correctIndex": 0
+  },
+  {
+    "id": 548,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+    "options": ["Bhutan", "Nepal", "Tibet", "Thailand"],
+    "correctIndex": 0
+  },
+  {
+    "id": 549,
+    "category": "Geography",
+    "question": "The 'Prime Meridian' passes through which city?",
+    "options": ["Greenwich", "Paris", "Berlin", "New York"],
+    "correctIndex": 0
+  },
+  {
+    "id": 550,
+    "category": "Geography",
+    "question": "Which is the hottest continent on Earth?",
+    "options": ["Africa", "Australia", "Asia", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "id": 551,
+    "category": "Geography",
+    "question": "Which country is famous for its fjords?",
+    "options": ["Norway", "New Zealand", "Canada", "Chile"],
+    "correctIndex": 0
+  },
+  {
+    "id": 552,
+    "category": "Geography",
+    "question": "The 'Suez Canal' is in which country?",
+    "options": ["Egypt", "Panama", "Turkey", "Saudi Arabia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 553,
+    "category": "Geography",
+    "question": "Which is the coldest place on Earth?",
+    "options": ["Antarctica", "Siberia", "Greenland", "Alaska"],
+    "correctIndex": 0
+  },
+  {
+    "id": 554,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of White Elephants'?",
+    "options": ["Thailand", "India", "Sri Lanka", "Cambodia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 555,
+    "category": "Geography",
+    "question": "The 'Atacama Desert' is located in which country?",
+    "options": ["Chile", "Peru", "Argentina", "Bolivia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 556,
+    "category": "Geography",
+    "question": "Which continent has the most countries?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "correctIndex": 0
+  },
+  {
+    "id": 557,
+    "category": "Geography",
+    "question": "Which country has the most time zones?",
+    "options": ["France", "Russia", "USA", "China"],
+    "correctIndex": 0
+  },
+  {
+    "id": 558,
+    "category": "Geography",
+    "question": "The 'Great Canyon' is located in which country?",
+    "options": ["USA", "Australia", "South Africa", "Mexico"],
+    "correctIndex": 0
+  },
+  {
+    "id": 559,
+    "category": "Geography",
+    "question": "Which is the largest peninsula in the world?",
+    "options": ["Arabian Peninsula", "Indian Peninsula", "Indochinese Peninsula", "Iberian Peninsula"],
+    "correctIndex": 0
+  },
+  {
+    "id": 560,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Maple'?",
+    "options": ["Canada", "USA", "Russia", "Germany"],
+    "correctIndex": 0
+  },
+  {
+    "id": 561,
+    "category": "Geography",
+    "question": "The 'Black Forest' is located in which country?",
+    "options": ["Germany", "Austria", "Switzerland", "France"],
+    "correctIndex": 0
+  },
+  {
+    "id": 562,
+    "category": "Geography",
+    "question": "Which is the windiest continent?",
+    "options": ["Antarctica", "Asia", "Africa", "Australia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 563,
+    "category": "Geography",
+    "question": "Which country is known as the 'Sugar Bowl of the World'?",
+    "options": ["Cuba", "Brazil", "India", "USA"],
+    "correctIndex": 0
+  },
+  {
+    "id": 564,
+    "category": "Geography",
+    "question": "The 'Veld' is a type of grassland found in which country?",
+    "options": ["South Africa", "Australia", "Argentina", "USA"],
+    "correctIndex": 0
+  },
+  {
+    "id": 565,
+    "category": "Geography",
+    "question": "Which country shares the longest land border with the USA?",
+    "options": ["Canada", "Mexico", "Russia", "Bahamas"],
+    "correctIndex": 0
+  },
+  {
+    "id": 566,
+    "category": "Geography",
+    "question": "The 'Golden Triangle' in SE Asia involves which countries?",
+    "options": ["Thailand, Laos, Myanmar", "Vietnam, Laos, Cambodia", "Thailand, Malaysia, Singapore", "India, Nepal, Bhutan"],
+    "correctIndex": 0
+  },
+  {
+    "id": 567,
+    "category": "Geography",
+    "question": "Which is the most populous city in the world?",
+    "options": ["Tokyo", "Delhi", "Shanghai", "Sao Paulo"],
+    "correctIndex": 0
+  },
+  {
+    "id": 568,
+    "category": "Geography",
+    "question": "Which country is known as the 'Playground of Europe'?",
+    "options": ["Switzerland", "Italy", "France", "Austria"],
+    "correctIndex": 0
+  },
+  {
+    "id": 569,
+    "category": "Geography",
+    "question": "The 'Llanos' are grasslands found in which continent?",
+    "options": ["South America", "Africa", "Australia", "Europe"],
+    "correctIndex": 0
+  },
+  {
+    "id": 570,
+    "category": "Geography",
+    "question": "Which country has the shortest coastline?",
+    "options": ["Monaco", "Jordan", "Bosnia", "Nauru"],
+    "correctIndex": 0
+  },
+  {
+    "id": 571,
+    "category": "Geography",
+    "question": "The 'Benelux' countries include Belgium, Netherlands, and which other?",
+    "options": ["Luxembourg", "Germany", "France", "Switzerland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 572,
+    "category": "Geography",
+    "question": "Which is the most northerly capital city in the world?",
+    "options": ["Reykjavik", "Oslo", "Helsinki", "Stockholm"],
+    "correctIndex": 0
+  },
+  {
+    "id": 573,
+    "category": "Geography",
+    "question": "The 'Great Rift Valley' is primarily located in which continent?",
+    "options": ["Africa", "Asia", "Australia", "Europe"],
+    "correctIndex": 0
+  },
+  {
+    "id": 574,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Tulips'?",
+    "options": ["Netherlands", "Belgium", "Denmark", "Turkey"],
+    "correctIndex": 0
+  },
+  {
+    "id": 575,
+    "category": "Geography",
+    "question": "The 'Khyber Pass' connects which two countries?",
+    "options": ["Pakistan and Afghanistan", "India and Pakistan", "China and Nepal", "Iran and Iraq"],
+    "correctIndex": 0
+  },
+  {
+    "id": 576,
+    "category": "Geography",
+    "question": "Which is the largest landlocked country in the world?",
+    "options": ["Kazakhstan", "Mongolia", "Chad", "Niger"],
+    "correctIndex": 0
+  },
+  {
+    "id": 577,
+    "category": "Geography",
+    "question": "The 'Adriatic Sea' is between which two countries?",
+    "options": ["Italy and Balkan Peninsula", "Spain and Morocco", "Greece and Turkey", "UK and France"],
+    "correctIndex": 0
+  },
+  {
+    "id": 578,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of the Golden Fleece'?",
+    "options": ["Australia", "New Zealand", "South Africa", "Argentina"],
+    "correctIndex": 0
+  },
+  {
+    "id": 579,
+    "category": "Geography",
+    "question": "The 'Selvas' are tropical rainforests of which river basin?",
+    "options": ["Amazon", "Congo", "Nile", "Mississippi"],
+    "correctIndex": 0
+  },
+  {
+    "id": 580,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Poets'?",
+    "options": ["Chile", "Iceland", "Italy", "France"],
+    "correctIndex": 0
+  },
+  {
+    "id": 581,
+    "category": "Geography",
+    "question": "The 'Great Bear Lake' is located in which country?",
+    "options": ["Canada", "USA", "Russia", "Norway"],
+    "correctIndex": 0
+  },
+  {
+    "id": 582,
+    "category": "Geography",
+    "question": "Which is the most sparsely populated country in the world?",
+    "options": ["Mongolia", "Namibia", "Australia", "Iceland"],
+    "correctIndex": 0
+  },
+  {
+    "id": 583,
+    "category": "Geography",
+    "question": "The 'Alps' cover parts of how many countries?",
+    "options": ["8", "5", "10", "3"],
+    "correctIndex": 0
+  },
+  {
+    "id": 584,
+    "category": "Geography",
+    "question": "Which country is known as the 'Cradle of Civilization'?",
+    "options": ["Iraq", "Egypt", "China", "India"],
+    "correctIndex": 0
+  },
+  {
+    "id": 585,
+    "category": "Geography",
+    "question": "The 'Yucat\u00e1n Peninsula' is in which country?",
+    "options": ["Mexico", "Guatemala", "Belize", "Honduras"],
+    "correctIndex": 0
+  },
+  {
+    "id": 586,
+    "category": "Geography",
+    "question": "Which is the largest country in South America?",
+    "options": ["Brazil", "Argentina", "Peru", "Colombia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 587,
+    "category": "Geography",
+    "question": "The 'Pampas' are grasslands found in which country?",
+    "options": ["Argentina", "Brazil", "Uruguay", "Chile"],
+    "correctIndex": 0
+  },
+  {
+    "id": 588,
+    "category": "Geography",
+    "question": "Which country has the shape of a boot?",
+    "options": ["Italy", "Greece", "Norway", "Chile"],
+    "correctIndex": 0
+  },
+  {
+    "id": 589,
+    "category": "Geography",
+    "question": "The 'White Cliffs of Dover' are in which country?",
+    "options": ["United Kingdom", "France", "USA", "Australia"],
+    "correctIndex": 0
+  },
+  {
+    "id": 590,
+    "category": "Geography",
+    "question": "Which is the most southerly city in the world?",
+    "options": ["Ushuaia", "Punta Arenas", "Hobart", "Invercargill"],
+    "correctIndex": 0
+  },
+  {
+    "id": 591,
+    "category": "Geography",
+    "question": "The 'Danakil Depression' is located in which country?",
+    "options": ["Ethiopia", "Egypt", "Libya", "Mali"],
+    "correctIndex": 0
+  },
+  {
+    "id": 592,
+    "category": "Geography",
+    "question": "Which country is known as the 'Pearl of the Antilles'?",
+    "options": ["Cuba", "Haiti", "Jamaica", "Puerto Rico"],
+    "correctIndex": 0
+  },
+  {
+    "id": 593,
+    "category": "Geography",
+    "question": "The 'Appennine' mountains are in which country?",
+    "options": ["Italy", "Greece", "Spain", "France"],
+    "correctIndex": 0
+  },
+  {
+    "id": 594,
+    "category": "Geography",
+    "question": "Which is the second largest country in the world by area?",
+    "options": ["Canada", "Russia", "China", "USA"],
+    "correctIndex": 0
+  },
+  {
+    "id": 595,
+    "category": "Geography",
+    "question": "The 'Rub' al Khali' desert is in which peninsula?",
+    "options": ["Arabian", "Indian", "Iberian", "Balkan"],
+    "correctIndex": 0
+  },
+  {
+    "id": 596,
+    "category": "Geography",
+    "question": "Which country is known as the 'Land of Hope'?",
+    "options": ["Argentina", "Brazil", "Mexico", "South Africa"],
+    "correctIndex": 0
+  },
+  {
+    "id": 597,
+    "category": "Geography",
+    "question": "The 'Massif Central' is a highland region in which country?",
+    "options": ["France", "Germany", "Spain", "Italy"],
+    "correctIndex": 0
+  },
+  {
+    "id": 598,
+    "category": "Geography",
+    "question": "Which is the most widely spoken language in the world?",
+    "options": ["English", "Mandarin", "Spanish", "Hindi"],
+    "correctIndex": 0
+  },
+  {
+    "id": 599,
+    "category": "Geography",
+    "question": "The 'Great Victoria Desert' is in which country?",
+    "options": ["Australia", "South Africa", "Botswana", "USA"],
+    "correctIndex": 0
+  },
+  {
+    "id": 600,
+    "category": "Geography",
+    "question": "Which country is known as the 'Gateway to the West'?",
+    "options": ["Turkey", "Morocco", "Egypt", "Spain"],
+    "correctIndex": 0
+  }
+]
